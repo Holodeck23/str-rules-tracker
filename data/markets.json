@@ -5,22 +5,31 @@
    "slug": "vienna",
    "name": "Vienna",
    "country": "Austria",
-   "registration": "Registration with the city required; Wohnzone restrictions apply",
-   "cap": "Max 90 nights/yr for non-primary residences in residential zones",
-   "tax": "3.2% Ortstaxe on net accommodation revenue",
-   "lastChange": "",
+   "registration": "Ortstaxe tax account (VIETour) mandatory for every host; renting beyond 90 nights/yr additionally requires a §129(1a) exemption permit — unobtainable inside Wohnzonen",
+   "cap": "90 nights per calendar year without a permit (since 1 Jul 2024); primary-residence home-sharing within the cap is permit-free",
+   "tax": "Ortstaxe 5% of net accommodation revenue since 1 Jul 2026 (was 3.2%; rises to 8% on 1 Jul 2027)",
+   "lastChange": "2026-07-01",
    "source": "https://www.wien.gv.at/amtshelfer/finanzielles/rechnungswesen/abgaben/ortstaxe.html",
    "sourceName": "Stadt Wien",
-   "status": "UNVERIFIED",
-   "verified": "",
-   "process": "",
-   "whoCanHost": "",
-   "zones": "",
-   "penalties": "",
-   "enforcement": "",
-   "history": [],
+   "status": "VERIFIED",
+   "verified": "2026-07-12",
+   "process": "Open a tax account via the VIETour online application; remit Ortstaxe by the 15th of the month following each stay; file the annual declaration by 15 February. For >90 nights/yr, apply to the city (MA 37) for a §129(1a) Ausnahmebewilligung — granted for max 5 years and only for addresses outside Wohnzonen.",
+   "whoCanHost": "Home-sharers renting their primary residence up to 90 nights (without abandoning it) need no permit. Investors and second-home owners need the exemption permit and a non-Wohnzone address.",
+   "zones": "Wohnzonen (covering much of central Vienna): tourist short-term rental effectively barred — exemption permits are not granted there, nor in Grünland/Kleingarten land categories.",
+   "penalties": "Merely offering an apartment beyond 90 nights/yr without the permit is punishable — fines up to €50,000.",
+   "enforcement": "Enforced by the city building authority (MA 37) under the tightened 2024 Bauordnung regime; Ortstaxe compliance tracked via VIETour accounts.",
+   "history": [
+    {
+     "date": "2026-07-01",
+     "change": "Ortstaxe raised from 3.2% to 5% of net accommodation revenue; a further rise to 8% is legislated for 1 Jul 2027."
+    },
+    {
+     "date": "2024-07-01",
+     "change": "90-night annual cap and §129(1a) exemption-permit regime in force; offering beyond the cap without a permit fined up to €50,000."
+    }
+   ],
    "severity": "caution",
-   "verdict": "Workable with registration, but the 90-night cap outside core zones bites investors."
+   "verdict": "Home-sharing is safe; the investor play needs a non-Wohnzone address plus a 5-year exemption permit — and the tourist tax just jumped to 5%."
   },
   {
    "slug": "salzburg",
