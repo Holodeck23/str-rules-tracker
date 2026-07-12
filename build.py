@@ -252,7 +252,8 @@ for m in DATA["markets"]:
     depth = ""
     for key, label in DEPTH:
         val = m.get(key) or ""
-        depth += f'<dt>{label}</dt><dd>{html.escape(val) if val else "<span class=empty>Not yet documented — added on a future verification pass.</span>"}</dd>'
+        if val:
+            depth += f'<dt>{label}</dt><dd>{html.escape(val)}</dd>'
     warn = "" if m["status"] == "VERIFIED" else '<div class="notice"><b>Unverified draft</b> — this entry was seeded from public knowledge and has not yet been checked against the official source. Verify before acting on it.</div>'
     body = f"""<div style="padding-top:26px"><a class="back" href="/#register">← The full register</a></div>
 <div class="cityhead">
