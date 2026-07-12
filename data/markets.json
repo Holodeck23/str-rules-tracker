@@ -371,22 +371,31 @@
    "slug": "new-york",
    "name": "New York City",
    "country": "United States",
-   "registration": "Local Law 18: mandatory registration; host must be present; max 2 guests",
-   "cap": "Unhosted stays under 30 days effectively banned",
-   "tax": "Hotel taxes apply to legal stays",
-   "lastChange": "",
+   "registration": "Local Law 18: registration with the Office of Special Enforcement (OSE) mandatory before listing; $145 non-refundable application fee",
+   "cap": "Stays under 30 days only in the host's own residence, host physically present, max 2 guests; unhosted short stays effectively banned",
+   "tax": "NYC hotel/occupancy taxes apply to legal registered stays; 30+ day rentals fall outside the STR regime",
+   "lastChange": "2025-05-12",
    "source": "https://www.nyc.gov/site/specialenforcement/registration-law/registration.page",
    "sourceName": "NYC OSE",
-   "status": "UNVERIFIED",
-   "verified": "",
-   "process": "",
-   "whoCanHost": "",
-   "zones": "",
-   "penalties": "",
-   "enforcement": "",
-   "history": [],
+   "status": "VERIFIED",
+   "verified": "2026-07-12",
+   "process": "Apply via the OSE registration portal ($145 fee); OSE checks the address against the Prohibited Buildings List and diverse dwelling-law criteria before issuing a registration number, which platforms must display. Class B dwellings approved for short-term occupancy are exempt from registration.",
+   "whoCanHost": "Only residents renting the unit they actually live in, present during the stay, max 2 guests. Investors and whole-apartment operators are out — 30+ day stays are the only legal route for them.",
+   "zones": "No zoning map — instead a Prohibited Buildings List: 14,000+ buildings (incl. all rent-regulated and NYCHA stock) have opted out; OSE must refuse registration there. Only ~3,000 registrations granted city-wide.",
+   "penalties": "Up to $5,000 per violation for illegal operation; the city has begun suing operators under LL18 (first suit May 2025) seeking penalties and disgorgement of illegal revenue. Platforms are barred from processing bookings for unregistered listings.",
+   "enforcement": "OSE actively enforces: platform booking-blocks at checkout, the prohibited list, and litigation. One of the hardest-enforced regimes in the world — assume the rules are applied as written.",
+   "history": [
+    {
+     "date": "2025-05-12",
+     "change": "City files its first lawsuit under Local Law 18 against an illegal operator — enforcement moves from booking-blocks to litigation."
+    },
+    {
+     "date": "2023-09-05",
+     "change": "Local Law 18 enforcement began: platforms must refuse bookings for unregistered listings; unhosted sub-30-day stays effectively end."
+    }
+   ],
    "severity": "restricted",
-   "verdict": "Local Law 18 killed unhosted stays: host present, two guests max, registration enforced."
+   "verdict": "The investor market is dead by design: ~3,000 legal registrations in a city of millions. Live-in home-sharing with two guests is all that remains under 30 days."
   },
   {
    "slug": "miami",
