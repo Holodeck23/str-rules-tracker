@@ -203,22 +203,31 @@
    "slug": "amsterdam",
    "name": "Amsterdam",
    "country": "Netherlands",
-   "registration": "Registration number + permit (vakantieverhuur) required",
-   "cap": "Max 30 nights/yr, max 4 guests",
-   "tax": "12.5% tourist tax on turnover",
-   "lastChange": "",
+   "registration": "National registration number mandatory on every listing; vakantieverhuur permit (vergunning) required; every individual stay must be reported to the city via the RTV system before it starts",
+   "cap": "30 nights/yr citywide — CUT to 15 nights/yr in the busiest central districts (Burgwallen-Nieuwe Zijds, Grachtengordel W/Z, Jordaan, Nieuwmarkt, Haarlemmerbuurt, De Weteringschans, Oude Pijp) since 1 Apr 2026; max 4 guests",
+   "tax": "12.5% tourist tax on the room price ex-VAT (unchanged for 2026) — but national VAT on stays rises 9%→21% in 2026, pushing total tax on a booking to roughly a third",
+   "lastChange": "2026-04-01",
    "source": "https://www.amsterdam.nl/wonen-leefomgeving/wonen/vakantieverhuur/",
    "sourceName": "Gemeente Amsterdam",
-   "status": "UNVERIFIED",
-   "verified": "",
-   "process": "",
-   "whoCanHost": "",
-   "zones": "",
-   "penalties": "",
-   "enforcement": "",
-   "history": [],
+   "status": "VERIFIED",
+   "verified": "2026-07-12",
+   "process": "Register for the national registration number, apply for the vakantieverhuur permit, then report each rental (dates + nights) through the RTV portal before guests arrive. Skipping a single stay report is itself a violation.",
+   "whoCanHost": "Only the resident of the home — you must live there and be registered at the address. Renting an investment unit as vakantieverhuur is not possible; that requires a hotel/B&B track with its own permits.",
+   "zones": "City-wide regime plus the 2026 neighbourhood tier: seven central areas now carry the 15-night cap; the rest of the city keeps 30. Council direction of travel is further tightening.",
+   "penalties": "Fines under the Amsterdam Housing Ordinance 2024 per violation, plus conditional penalty orders (dwangsom) for repeat offenders; unreported stays and cap breaches are the classic triggers.",
+   "enforcement": "Among Europe's most active: per-stay RTV reports give the city a live ledger to enforce against, and platforms enforce the registration number at listing level.",
+   "history": [
+    {
+     "date": "2026-04-01",
+     "change": "Night cap halved from 30 to 15 in seven central neighbourhoods (Centre + Oude Pijp) under the tightened vakantieverhuur rules."
+    },
+    {
+     "date": "2026-01-01",
+     "change": "National VAT on accommodation rises 9% → 21%; Amsterdam tourist tax holds at 12.5% ex-VAT."
+    }
+   ],
    "severity": "restricted",
-   "verdict": "Thirty nights a year, four guests, permit required — hosting as a side note, not a business."
+   "verdict": "Hosting your own home works — 30 nights, or just 15 in the centre since April. As a business market it's closed, and both the caps and the taxes are moving against you."
   },
   {
    "slug": "london",
