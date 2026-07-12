@@ -1,7 +1,7 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The STR Register — short-term rental rules by city, dated and sourced</title>
-<meta name="description" content="Registration, night caps and tourist taxes for 20 cities — dated, sourced, operator-verified. Know the rules before the city knows you.">
+<meta name="description" content="Registration, night caps and tourist taxes for 30 cities — dated, sourced, operator-verified. Know the rules before the city knows you.">
 <link rel="canonical" href="https://str-rule-tracker.vercel.app/"><link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect x=%228%22 y=%2228%22 width=%2284%22 height=%2244%22 rx=%226%22 fill=%22none%22 stroke=%22%232d5f5d%22 stroke-width=%227%22 transform=%22rotate(-6 50 50)%22/><text x=%2250%22 y=%2262%22 font-size=%2230%22 font-family=%22monospace%22 font-weight=%22bold%22 fill=%22%232d5f5d%22 text-anchor=%22middle%22 transform=%22rotate(-6 50 50)%22>STR</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet"><style>
 :root{
@@ -142,13 +142,13 @@ footer a{color:var(--verify)}
 <section class="hero">
 <p class="kick">The short-term rental rulebook, kept current</p>
 <h1>Know the rules <em>before</em> the city knows you.</h1>
-<p>Registration, night caps, and tourist taxes for 20 major markets — each entry dated, linked to its official source, and checked by an operating host. When a council moves, the ledger records it.</p>
+<p>Registration, night caps, and tourist taxes for 30 major markets — each entry dated, linked to its official source, and checked by an operating host. When a council moves, the ledger records it.</p>
 <span class="datestamp">Edition of 2026-07-12</span>
 <div class="stats">
-<div><b>20</b><span>markets tracked</span></div>
-<div><b>11</b><span>restricted</span></div>
-<div><b>8</b><span>caution</span></div>
-<div><b>1</b><span>workable</span></div>
+<div><b>30</b><span>markets tracked</span></div>
+<div><b>15</b><span>restricted</span></div>
+<div><b>11</b><span>caution</span></div>
+<div><b>4</b><span>workable</span></div>
 </div>
 </section>
 <h2 id="register">The register</h2>
@@ -164,7 +164,11 @@ footer a{color:var(--verify)}
 <button class="fbtn" data-sev="caution" aria-pressed="false">Caution</button>
 <button class="fbtn" data-sev="workable" aria-pressed="false">Workable</button>
 </div>
-<div class="grid"><a class="mkt restricted" href="/rules/salzburg" data-name="salzburg" data-country="austria">
+<div class="grid"><a class="mkt caution" href="/rules/sydney" data-name="sydney" data-country="australia">
+<div class="head"><div><h3>Sydney</h3><span class="co">Australia</span></div>
+<span class="sevtag">Caution</span></div>
+<p class="verdict">Registered and workable, but the 180-night cap on non-hosted stays halves an investor&#x27;s calendar.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/salzburg" data-name="salzburg" data-country="austria">
 <div class="head"><div><h3>Salzburg</h3><span class="co">Austria</span></div>
 <span class="sevtag">Restricted</span></div>
 <p class="verdict">Apartment STRs are effectively closed to newcomers without a dedicated permit.</p>
@@ -172,6 +176,14 @@ footer a{color:var(--verify)}
 <div class="head"><div><h3>Vienna</h3><span class="co">Austria</span></div>
 <span class="sevtag">Caution</span></div>
 <p class="verdict">Workable with registration, but the 90-night cap outside core zones bites investors.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/toronto" data-name="toronto" data-country="canada">
+<div class="head"><div><h3>Toronto</h3><span class="co">Canada</span></div>
+<span class="sevtag">Restricted</span></div>
+<p class="verdict">Principal-residence-only kills the investor play; fine for renting your own home while away.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/vancouver" data-name="vancouver" data-country="canada">
+<div class="head"><div><h3>Vancouver</h3><span class="co">Canada</span></div>
+<span class="sevtag">Restricted</span></div>
+<p class="verdict">BC&#x27;s 2024 crackdown made this one of the strictest regimes in North America — principal residence or nothing.</p>
 <div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt workable" href="/rules/prague" data-name="prague" data-country="czechia">
 <div class="head"><div><h3>Prague</h3><span class="co">Czechia</span></div>
 <span class="sevtag">Workable</span></div>
@@ -208,10 +220,22 @@ footer a{color:var(--verify)}
 <div class="head"><div><h3>Rome</h3><span class="co">Italy</span></div>
 <span class="sevtag">Caution</span></div>
 <p class="verdict">CIN code and SCIA filing required; enforcement debates (keyboxes, check-in) signal tightening.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt caution" href="/rules/tokyo" data-name="tokyo" data-country="japan">
+<div class="head"><div><h3>Tokyo</h3><span class="co">Japan</span></div>
+<span class="sevtag">Caution</span></div>
+<p class="verdict">Legal since 2018 with registration, but the 180-night cap and ward-level rules make it a part-time business.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt caution" href="/rules/mexico-city" data-name="mexico city" data-country="mexico">
+<div class="head"><div><h3>Mexico City</h3><span class="co">Mexico</span></div>
+<span class="sevtag">Caution</span></div>
+<p class="verdict">Registration is live and a 50% night-cap is on the books — the rollout is messy but the direction is tightening.</p>
 <div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/amsterdam" data-name="amsterdam" data-country="netherlands">
 <div class="head"><div><h3>Amsterdam</h3><span class="co">Netherlands</span></div>
 <span class="sevtag">Restricted</span></div>
 <p class="verdict">Thirty nights a year, four guests, permit required — hosting as a side note, not a business.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt workable" href="/rules/auckland" data-name="auckland" data-country="new zealand">
+<div class="head"><div><h3>Auckland</h3><span class="co">New Zealand</span></div>
+<span class="sevtag">Workable</span></div>
+<p class="verdict">Open with registration-free hosting; the cost shows up as targeted council rates, not permits.</p>
 <div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/lisbon" data-name="lisbon" data-country="portugal">
 <div class="head"><div><h3>Lisbon</h3><span class="co">Portugal</span></div>
 <span class="sevtag">Restricted</span></div>
@@ -220,6 +244,14 @@ footer a{color:var(--verify)}
 <div class="head"><div><h3>Porto</h3><span class="co">Portugal</span></div>
 <span class="sevtag">Caution</span></div>
 <p class="verdict">Registration works outside the historic-centre containment zones — check the map first.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/singapore" data-name="singapore" data-country="singapore">
+<div class="head"><div><h3>Singapore</h3><span class="co">Singapore</span></div>
+<span class="sevtag">Restricted</span></div>
+<p class="verdict">Effectively banned: three-month minimum stays make Airbnb-style hosting illegal in residential property.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt workable" href="/rules/cape-town" data-name="cape town" data-country="south africa">
+<div class="head"><div><h3>Cape Town</h3><span class="co">South Africa</span></div>
+<span class="sevtag">Workable</span></div>
+<p class="verdict">One of the friendliest big markets left: zoning consent, no annual cap, and the city wants the tourism.</p>
 <div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/barcelona" data-name="barcelona" data-country="spain">
 <div class="head"><div><h3>Barcelona</h3><span class="co">Spain</span></div>
 <span class="sevtag">Restricted</span></div>
@@ -228,6 +260,14 @@ footer a{color:var(--verify)}
 <div class="head"><div><h3>Madrid</h3><span class="co">Spain</span></div>
 <span class="sevtag">Restricted</span></div>
 <p class="verdict">Central Madrid demands an independent entrance most apartments simply don&#x27;t have.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt restricted" href="/rules/bangkok" data-name="bangkok" data-country="thailand">
+<div class="head"><div><h3>Bangkok</h3><span class="co">Thailand</span></div>
+<span class="sevtag">Restricted</span></div>
+<p class="verdict">Under-30-day rentals need a hotel licence; condo boards and courts back the ban — enforcement is the wildcard.</p>
+<div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt workable" href="/rules/dubai" data-name="dubai" data-country="united arab emirates">
+<div class="head"><div><h3>Dubai</h3><span class="co">United Arab Emirates</span></div>
+<span class="sevtag">Workable</span></div>
+<p class="verdict">Genuinely open: pay for the Holiday Homes permit, meet the standards, and operate without night caps.</p>
 <div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a><a class="mkt caution" href="/rules/london" data-name="london" data-country="united kingdom">
 <div class="head"><div><h3>London</h3><span class="co">United Kingdom</span></div>
 <span class="sevtag">Caution</span></div>
@@ -246,7 +286,7 @@ footer a{color:var(--verify)}
 <p class="verdict">Local Law 18 killed unhosted stays: host present, two guests max, registration enforced.</p>
 <div class="foot"><span class="st un">unverified</span><span>Full entry →</span></div></a></div>
 <h2>Recent changes</h2>
-<div class="ledger"><ul><li class="empty">No rule changes logged yet — the register opened July 2026. From here, every change to any of the 20 markets appears in this ledger, dated, the day it is caught.</li></ul></div>
+<div class="ledger"><ul><li class="empty">No rule changes logged yet — the register opened July 2026. From here, every change to any of the 30 markets appears in this ledger, dated, the day it is caught.</li></ul></div>
 <section class="digest" id="digest">
 <div><p class="big">One email a week: what changed, and what it means for hosts.</p>
 <p>The weekly digest is assembled from this ledger — no listicles, no filler. Launching with the first edition; the register comes first.</p></div>
