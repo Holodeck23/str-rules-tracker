@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Câmara Municipal do Porto | Câmara Municipal do Porto
 Para o correto funcionamento deste website, deve utilizar um navegador mais atual. Algumas sugestões:
 Estratégia da Juventude do Porto
@@ -32,3 +33,5 @@ Prémio Economia do Porto - 5.ª Edição
 Fique a par das nossas novidades
 © Câmara Municipal do Porto 2026
 Este site utiliza cookies para melhorar a sua experiência e compilar dados anónimos sobre a atividade dos utilizadores.
+=======
+>>>>>>> origin/feature/llm-automation

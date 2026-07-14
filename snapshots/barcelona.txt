@@ -1,29 +1,3 @@
-Tourism | Barcelona City Council
-Specific content in other languages:
-Other Barcelona City Council websites
-Instructions for keyboard users
-This menu requires arrow keys to be able to use it. The menu has up to three levels:
-Second level: sub-options for elements from the first level
-Third level: sub-options for elements from the second level
-Browse using the vertical arrow keys on the first level of the menu.
-Use the right arrow key to display the second level.
-Browse on the second level using the vertical arrow keys.
-Use the Escape key to get back to the first level.
-Use the right arrow key to display the third level.
-Browse the third level by using the vertical arrow keys.
-Use the Escape key to get back to the second level.
-Alternatively, use the Enter key to display any level.
-Instructions for screen readers and keyboard users
-This menu requires arrow keys to be able to use it. The menu has up to three levels:
-Second level: sub-options for elements from the first level
-Third level: sub-options for elements from the second level
-Browse using the horizontal arrow keys on the first level of the menu.
-Display and browse on the second level using the vertical arrow keys.
-Use the Escape key to get back to the first level.
-Use the right arrow key to display the third level.
-Browse the third level by using the vertical arrow keys.
-Use the Escape key to get back to the second level.
-Alternatively, use the Enter key to display any level.
 Government Measure for Tourism Management 2024 - 2027
 For years, Barcelona City Council has prioritized the comprehensive management and governance of tourism as an essential element to guarantee a balanced and sustainable city and improve the integration of tourism into the city.
 High-traffic Areas (HTAs) are urban areas around iconic places in the city that experience a large influx of people, both residents and visitors.
@@ -55,6 +29,3 @@ Convocatòria XXII Premis CETT Fundació – Projectes emprenedors 2026
 When: Del 30/04/2026 al 19/10/2026
 Where: Presentació per internet
 Destinació Barcelona Sostenible
-Citizen Help and Information Offices (OAC)
-010 Citizen Information and Assistance Telephone Service
-The latest news in tourism management, directly to your mailbox!

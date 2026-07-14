@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Service Directory Make a Payment archive.miami.gov
 English Select this as your preferred language Spanish Select this as your preferred language Haitian Creole Select this as your preferred language
 Select a language to translate to
@@ -106,3 +107,5 @@ You can also visit the City of Miami's YouTube page.
 Greater Miami Convention & Visitors Bureau
 Accessibility statement | Privacy Statement | Copyright | Sitemap
 2026 City of Miami | Powered by Granicus
+=======
+>>>>>>> origin/feature/llm-automation

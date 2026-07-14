@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Inicio - Ayuntamiento de Madrid
 Portal web del Ayuntamiento de Madrid
 Sistema municipal de cita previa
@@ -29,3 +30,5 @@ Información actualizada de la temperatura
 Información actualizada de los principales contaminantes
 El mapa que reúne la información sobre movilidad en Madrid
 Conoce todas las alternativas y elige tu mejor opción
+=======
+>>>>>>> origin/feature/llm-automation

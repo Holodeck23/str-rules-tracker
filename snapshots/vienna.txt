@@ -1,15 +1,3 @@
-Freizeit Übersicht Veranstaltungen Baden Kultur
-Vereine Radfahren Spielplätze Grillen Wohnen Übersicht Meldeservice Wohnungssuche Gemeindewohnungen Bauen Förderungen Hilfe Beratung
-Barrierefreies Wohnen Verkehr Übersicht Parken Auto Motorrad
-Motorrad Rad Öffentlicher Verkehr Zu Fuß Baustellen Verkehrssicherheit Planung Konzepte Bildung Übersicht Kindergarten
-Planung Konzepte Lehre Studium Weiterbildung Büchereien Archive Forschung Gesundheit Übersicht Beratung Vorsorge
-Psychische Gesundheit Krankenhäuser Ärzt*innen Apotheken Pflege Planung Konzepte Umwelt Übersicht Klima Müll
-Hochwasser Energie Wetter Umweltschutz Forst Landwirtschaft Zusammenleben Übersicht Kind Familie
-Krise Ehe Partnerschaft Senior*innen Integration
-Planung Konzepte Ehrenamtliche Arbeit Gleichstellung Sicherheit Tiere
-Kauf Zucht Stadtplanung Übersicht Vorhaben Projekte Bürger*innen-Beteiligung Flächenwidmung Geodaten Stadtforschung Strategien Politik Übersicht Bezirke Stadtpolitik Landespolitik Wahlen Mitbestimmen Finanzen Internationales Open Government Data (OGD) Wirtschaft Übersicht Arbeit Gründen Gewerbe Betriebsanlagen Hilfe Beratung
-OekoBusiness Stadt als Auftraggeberin
-Vorgaben für Bauprojekte Märkte Wirtschaftsstandort Wien Mein Wien
 Ortstaxe - Abgabenkonto eröffnen, Steuererklärung abgeben, Berechnung
 Wenn Sie eine Unterkunft im Gebiet der Stadt Wien vorübergehend vermieten möchten, müssen Sie eine Steuer bezahlen. Dazu benötigen Sie ein Abgabenkonto. Sie können die Eröffnung eines Abgabenkontos online beantragen. Dazu benötigen Sie zuvor eine
 wien.gv.at-Benutzerregistrierung
@@ -30,6 +18,3 @@ Code iframe src="https://www.wien.gv.at/amtswege/ortstaxe/embed" id="iframe_19d5
 Der eingebettete Inhalt aktualisiert sich automatisch, sobald wir ihn auf wien.gv.at ändern.
 019d57a2-7aa8-485c-8d8e-285bab6c42a0
 Nutzungsbedingungen Dieser Inhalt wird von der Stadt Wien kostenfrei gemäß Creative Commons CC-BY 4.0 zur Verfügung gestellt.
-Datenschutzrechtliche Bestimmungen : Wir setzen Cookies ein, um Ihren Interessen entsprechende Informationen der Stadt Wien bei Drittanbietern anzuzeigen. Der Widerruf Ihrer Einwilligung und die Änderung Ihrer Auswahl ist jederzeit unter
-Datenschutz: Information und Einstellungen
-© Stadt Wien, Rathaus, A-1010 Wien
