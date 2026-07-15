@@ -15,7 +15,10 @@ can be trusted.
 2. Extracts the main content, diffs it against the stored snapshot.
 3. Classifies each diff: 🚨 high-signal (rule/tax/permit terms), ⚠ uncategorized, ℹ likely fluff.
 4. Tracks consecutive failures per source in `data/scan-state.json`; a source dead 3+ days
-   is escalated in the report.
+   is escalated in the report. Sources flagged `"watch": "manual"` in `data/markets.json`
+   (official sites that hard-block datacenter IPs, so the runner can never reach them even
+   though the URL is correct) are skipped by the scanner and listed for human check — they
+   don't count as failures, so the alert never cries wolf over an unreachable-but-fine source.
 5. Writes `reports/<date>.md` (+ latest at `scan-report.md`). If anything needs a human
    (a high-signal change or a dead source), it writes `scan-alert.txt` and **the workflow
    fails on purpose** — GitHub's failed-run email is the alert channel.
@@ -46,6 +49,10 @@ can be trusted.
 - **Freshness is data-driven, never the build clock.** The site stamps
   `data/markets.json.updated`, not `date.today()`. A VERIFIED entry's badge decays with
   age (fresh → aging past 45 days → "review due" past 90).
+- **Manual-watch sources.** Set `"watch": "manual"` on a market whose official page is
+  reachable by a real browser but not by the CI runner (IP-walled). The scanner lists it
+  for human review instead of counting it as a dead source. Today 8 of the tracked sources
+  are manual-watch; the rest are auto-watched every night.
 - **VERIFIED vs Unverified draft.** Seeded-from-public-knowledge entries are labelled
   Unverified until a human checks them against the source. Only VERIFIED entries carry
   a date. Depth fields (process/whoCanHost/zones/penalties/enforcement) fill on verify.
