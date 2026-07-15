@@ -1,0 +1,43 @@
+THE STR REGISTER — WEEKLY DIGEST
+Issue of 2026-07-14
+====================================================
+
+3 rule changes worth your attention this week.
+
+1. [RESTRICTED] AMSTERDAM
+----------------------------------------------------
+WHAT CHANGED: VERIFIED: night cap was HALVED to 15 in seven central districts on 1 Apr 2026 — our seed still said 30 citywide. Also confirmed: 12.5% tourist tax holds for 2026 while national VAT on stays jumps 9%→21%.
+
+WHAT IT MEANS: If you host in Centrum, Grachtengordel, Jordaan, Nieuwmarkt, Haarlemmerbuurt, De Weteringschans or Oude Pijp, your legal ceiling just fell from 30 nights a year to 15 — half your already-thin calendar. Stack the VAT jump on top (9%→21% on the stay itself, while the 12.5% tourist tax holds) and the tax wedge on a booking now approaches a third of the room price. A €150/night listing that cleared ~€138 after tax in 2025 clears closer to €112 in 2026, on half the permitted nights.
+
+DO THIS: Confirm which district your unit sits in — the 15-night tier is neighbourhood-specific, not city-wide. If you were banking on 30 nights, re-run your annual numbers now and file every stay through the RTV portal before arrival; an unreported night is itself a violation.
+TIMING: In force since 2026-04-01
+SOURCE: Gemeente Amsterdam — https://www.amsterdam.nl/wonen-leefomgeving/wonen/vakantieverhuur/
+FULL ENTRY: https://str-rule-tracker.vercel.app/rules/amsterdam
+
+2. [RESTRICTED] NEW YORK CITY
+----------------------------------------------------
+WHAT CHANGED: VERIFIED against NYC OSE sources: $145 OSE registration, Prohibited Buildings List (14,000+ buildings opted out, only ~3,000 registrations granted), $5,000/violation penalties, first LL18 lawsuit filed May 2025.
+
+WHAT IT MEANS: The investor market in NYC is closed by design, and enforcement moved from booking-blocks to the courtroom in May 2025 — the city now sues operators for penalties plus disgorgement of illegal revenue. With ~3,000 legal registrations in a city of millions and a 14,000-building opt-out list, the odds your address even qualifies are low. The only legal sub-30-day product is you, in your own home, present, two guests max.
+
+DO THIS: Before spending a dollar on furnishings or a listing, check your building against the OSE Prohibited Buildings List and confirm the unit is your primary residence. If it isn't both, the legal route is 30-day-plus stays, which fall outside the STR regime entirely.
+TIMING: Enforcement active; litigation began 2025-05-12
+SOURCE: NYC OSE — https://www.nyc.gov/site/specialenforcement/registration-law/registration.page
+FULL ENTRY: https://str-rule-tracker.vercel.app/rules/new-york
+
+3. [CAUTION] VIENNA
+----------------------------------------------------
+WHAT CHANGED: VERIFIED against Stadt Wien sources — and caught a live change: Ortstaxe rose 3.2% → 5% on 1 Jul 2026 (8% follows in 2027). Our seeded row was already stale; now corrected and dated.
+
+WHAT IT MEANS: The tourist tax on every Vienna booking climbed from 3.2% to 5% of net accommodation revenue on 1 July, and it is legislated to hit 8% in July 2027 — more than doubling from where it sat a year ago. On €40,000 of annual net room revenue that is €720 more to the city this year, ~€1,900 more once the 8% lands. The 90-night cap and §129 exemption regime are unchanged, but the margin math is not.
+
+DO THIS: Update the tax line in your pricing model to 5% now and pencil 8% into your 2027 forecast. If you rent beyond 90 nights a year you still need a §129(1a) exemption permit and a non-Wohnzone address — the tax change doesn't touch that wall.
+TIMING: 5% since 2026-07-01; 8% lands 2027-07-01
+SOURCE: Stadt Wien — https://www.wien.gv.at/amtshelfer/finanzielles/rechnungswesen/abgaben/ortstaxe.html
+FULL ENTRY: https://str-rule-tracker.vercel.app/rules/vienna
+
+====================================================
+The full register — 30 markets, dated and sourced: https://str-rule-tracker.vercel.app
+You're getting this because you joined the STR Register digest.
+Reply STOP to unsubscribe.
