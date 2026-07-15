@@ -1,27 +1,32 @@
-The best place to find government services and information
 HMRC account: sign in or set up
 eVisas: access and use your online immigration status
 Universal Credit account: sign in
 Personal tax account: sign in or set up
+Childcare account: sign in
 Check your State Pension forecast
 Includes eligibility, appeals, tax credits and Universal Credit
-Births, deaths, marriages and care
+Births, deaths, marriages and care
 Parenting, civil partnerships, divorce and Lasting Power of Attorney
+Business and self-employed
 Tools and guidance for businesses
 Includes giving birth, fostering, adopting, benefits for children, childcare and schools
-Citizenship and living in the UK
+Citizenship and living in the UK
 Voting, community participation, life in the UK, international projects
+Crime, justice and the law
 Legal processes, courts and the police
 Includes carers, your rights, benefits and the Equality Act
 Includes vehicle tax, MOT and driving licences
 Includes student loans, admissions and apprenticeships
 Includes pay, contracts, hiring and redundancies
+Environment and countryside
 Includes flooding, recycling, farming and wildlife
+Housing and local services
 Owning or renting and council services
-Includes debt and Self Assessment
-Passports, travel and living abroad
+Includes debt and Self Assessment
+Passports, travel and living abroad
 Includes renewing passports and travel advice by country
-Apply to visit, work, study, settle or seek asylum in the UK
+Apply to visit, work, study, settle or seek asylum in the UK
+Working, jobs and pensions
 Includes holidays, finding a job and redundancy
 Search and apply for jobs in England, Scotland and Wales.
 Check your record to see if you can add more contributions.
@@ -33,4 +38,9 @@ News stories, speeches, letters and notices
 Detailed guidance, regulations and rules
 Reports, analysis and official statistics
 Policy papers and consultations
+Consultations and strategy
 Data, Freedom of Information releases and corporate reports
+Check MOT history of a vehicle
+Check your State Pension age
+Childcare account: sign in
+Self Assessment tax returns
