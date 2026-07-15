@@ -134,7 +134,8 @@
    "enforcement": "",
    "history": [],
    "severity": "restricted",
-   "verdict": "Central Madrid demands an independent entrance most apartments simply don't have."
+   "verdict": "Central Madrid demands an independent entrance most apartments simply don't have.",
+   "watch": "manual"
   },
   {
    "slug": "lisbon",
@@ -155,7 +156,8 @@
    "enforcement": "",
    "history": [],
    "severity": "restricted",
-   "verdict": "New AL registrations frozen in containment zones; existing licences under review."
+   "verdict": "New AL registrations frozen in containment zones; existing licences under review.",
+   "watch": "manual"
   },
   {
    "slug": "porto",
@@ -227,7 +229,8 @@
     }
    ],
    "severity": "restricted",
-   "verdict": "Hosting your own home works — 30 nights, or just 15 in the centre since April. As a business market it's closed, and both the caps and the taxes are moving against you."
+   "verdict": "Hosting your own home works — 30 nights, or just 15 in the centre since April. As a business market it's closed, and both the caps and the taxes are moving against you.",
+   "watch": "manual"
   },
   {
    "slug": "london",
@@ -374,7 +377,8 @@
    "enforcement": "",
    "history": [],
    "severity": "caution",
-   "verdict": "Central districts frozen for new registrations; the rest of the city still registers."
+   "verdict": "Central districts frozen for new registrations; the rest of the city still registers.",
+   "watch": "manual"
   },
   {
    "slug": "new-york",
@@ -414,8 +418,11 @@
    "cap": "Zone-dependent; resort-tax registration required",
    "tax": "State + county resort taxes",
    "lastChange": "",
-   "source": "https://www.miamigov.com",
-   "sourceName": "City of Miami",
+   "source": "https://www.miamidade.gov/global/economy/neighborhood-compliance/residential-short-term-vacation-rentals.page",
+   "sourceName": "Miami-Dade County",
+   "altSources": [
+    "https://www.miamibeachfl.gov/business/vacation-short-term-rentals/"
+   ],
    "status": "UNVERIFIED",
    "verified": "",
    "process": "",
@@ -509,7 +516,8 @@
    "enforcement": "",
    "history": [],
    "severity": "restricted",
-   "verdict": "Under-30-day rentals need a hotel licence; condo boards and courts back the ban — enforcement is the wildcard."
+   "verdict": "Under-30-day rentals need a hotel licence; condo boards and courts back the ban — enforcement is the wildcard.",
+   "watch": "manual"
   },
   {
    "slug": "dubai",
@@ -519,8 +527,9 @@
    "cap": "No night cap; unit standards + guest registration enforced",
    "tax": "Tourism Dirham per bedroom per night",
    "lastChange": "",
-   "source": "https://www.dubaidet.gov.ae",
+   "source": "https://www.dubaidet.gov.ae/en/our-services/for-consumers-and-students/apply-for-a-holiday-home-permit",
    "sourceName": "Dubai DET",
+   "watch": "manual",
    "status": "UNVERIFIED",
    "verified": "",
    "process": "",
@@ -572,7 +581,8 @@
    "enforcement": "",
    "history": [],
    "severity": "workable",
-   "verdict": "Open with registration-free hosting; the cost shows up as targeted council rates, not permits."
+   "verdict": "Open with registration-free hosting; the cost shows up as targeted council rates, not permits.",
+   "watch": "manual"
   },
   {
    "slug": "toronto",
@@ -603,8 +613,8 @@
    "cap": "Entire-home STRs outside principal residence banned province-wide (2024)",
    "tax": "8% PST+MRDT on accommodation",
    "lastChange": "",
-   "source": "https://vancouver.ca/doing-business/short-term-rentals.aspx",
-   "sourceName": "City of Vancouver",
+   "source": "https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/short-term-rental-legislation",
+   "sourceName": "Province of British Columbia",
    "status": "UNVERIFIED",
    "verified": "",
    "process": "",
@@ -635,7 +645,8 @@
    "enforcement": "",
    "history": [],
    "severity": "caution",
-   "verdict": "Registration is live and a 50% night-cap is on the books — the rollout is messy but the direction is tightening."
+   "verdict": "Registration is live and a 50% night-cap is on the books — the rollout is messy but the direction is tightening.",
+   "watch": "manual"
   },
   {
    "slug": "cape-town",
