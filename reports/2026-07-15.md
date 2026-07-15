@@ -1,39 +1,40 @@
 # Scan report — 2026-07-15
 
-**0 changed · 13 unreachable · 0 DEAD · 17 quiet**
+**0 changed · 0 unreachable · 0 DEAD · 23 quiet**
 
-## ✗ Unreachable today (watching)
+## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
-- berlin: https://www.berlin.de/sen/wohnen/wohnraum/zweckentfremdung-von-wohnraum/ — `HTTPError: HTTP Error 404: Not Found` (day 1)
-- madrid: https://www.madrid.es — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- lisbon: https://www.lisboa.pt — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- paris: https://www.paris.fr/pages/locations-meublees-de-courte-duree-4331 — `HTTPError: HTTP Error 404: Not Found` (day 1)
-- amsterdam: https://www.amsterdam.nl/wonen-leefomgeving/wonen/vakantieverhuur/ — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- athens: https://www.aade.gr — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- miami: https://www.miamigov.com — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- singapore: https://www.ura.gov.sg/Corporate/Property/Residential/Short-Term-Stays — `HTTPError: HTTP Error 404: Not Found` (day 1)
-- bangkok: https://www.dopa.go.th — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- dubai: https://www.dubaidet.gov.ae — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- auckland: https://www.aucklandcouncil.govt.nz — `HTTPError: HTTP Error 406: Not Acceptable` (day 1)
-- vancouver: https://vancouver.ca/doing-business/short-term-rentals.aspx — `HTTPError: HTTP Error 403: Forbidden` (day 1)
-- mexico-city: https://www.sectur.cdmx.gob.mx — `URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>` (day 1)
+- madrid: https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-urbanismo-y-obras/Viviendas-de-Uso-Turistico/?vgnextoid=b0fb828a3167f810VgnVCM2000001f4a900aRCRD&vgnextchannel=593e31d3b28fe410VgnVCM1000000b205a0aRCRD
+- lisbon: https://www.lisboa.pt/en/themes/urban-planning/studies-plans-and-programs/studies-and-plans/local-accommodation
+- amsterdam: https://www.amsterdam.nl/wonen-leefomgeving/wonen/vakantieverhuur/
+- athens: https://www.aade.gr/en/short-term-rental
+- bangkok: https://www.dopa.go.th
+- dubai: https://www.dubaidet.gov.ae/en/our-services/for-consumers-and-students/apply-for-a-holiday-home-permit
+- auckland: https://www.aucklandcouncil.govt.nz/en/property-rates-valuations/your-rates-bill/accommodation-provider-targeted-rate.html
+- mexico-city: https://www.estanciaeventual.cdmx.gob.mx/
 
 ## Quiet
 
-- vienna (first snapshot taken)
-- salzburg (first snapshot taken)
-- munich (first snapshot taken)
-- barcelona (first snapshot taken)
-- porto (first snapshot taken)
-- london (first snapshot taken)
-- dublin (first snapshot taken)
-- prague (first snapshot taken)
-- budapest (first snapshot taken)
-- rome (first snapshot taken)
-- florence (first snapshot taken)
-- new-york (first snapshot taken)
-- austin (first snapshot taken)
-- tokyo (first snapshot taken)
-- sydney (first snapshot taken)
-- toronto (first snapshot taken)
-- cape-town (first snapshot taken)
+- vienna (no change)
+- salzburg (no change)
+- berlin (no change)
+- munich (no change)
+- barcelona (no change)
+- porto (no change)
+- paris (no change)
+- london (no change)
+- dublin (no change)
+- prague (no change)
+- budapest (no change)
+- rome (no change)
+- florence (no change)
+- new-york (no change)
+- miami (no change)
+- miami (alt 2) (no change)
+- austin (no change)
+- tokyo (no change)
+- singapore (no change)
+- sydney (no change)
+- toronto (no change)
+- vancouver (no change)
+- cape-town (no change)

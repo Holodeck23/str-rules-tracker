@@ -155,10 +155,17 @@ def snap_name(slug, idx):
 
 
 state = load_state()
-high_prob, unknown, fluff, errors, dead, unchanged = [], [], [], [], [], []
+high_prob, unknown, fluff, errors, dead, unchanged, manual = [], [], [], [], [], [], []
 
 for m in DATA["markets"]:
     slug = m["slug"]
+    # Some official sites hard-block datacenter IPs (Cloudflare/Akamai/Incapsula):
+    # the URL is correct and a human browser reaches it, but the runner never will.
+    # Flag these "watch":"manual" so they're honestly human-checked, not counted as
+    # failures every night — otherwise the alert cries wolf and gets ignored.
+    if m.get("watch") == "manual":
+        manual.append((slug, m["source"]))
+        continue
     urls = [m["source"]] + m.get("altSources", [])
     for idx, url in enumerate(urls):
         key = f"{slug}#{idx}"
@@ -189,8 +196,8 @@ for m in DATA["markets"]:
         {"high": high_prob, "fluff": fluff, "unknown": unknown}[classify_diff(added, removed)].append(item)
         snap_file.write_text(text)  # advance snapshot; the report preserves the diff
 
-# prune state keys for markets/sources that no longer exist
-live_keys = {f'{m["slug"]}#{i}' for m in DATA["markets"]
+# prune state keys for markets/sources that no longer exist (or went manual)
+live_keys = {f'{m["slug"]}#{i}' for m in DATA["markets"] if m.get("watch") != "manual"
              for i in range(1 + len(m.get("altSources", [])))}
 state = {k: v for k, v in state.items() if k in live_keys}
 STATE_FILE.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n")
@@ -228,6 +235,10 @@ if dead:
 if errors:
     rep.append("## ✗ Unreachable today (watching)\n")
     rep += [f"- {s}: {u} — `{e[:120]}` (day {n})" for s, u, e, n in errors]
+    rep.append("")
+if manual:
+    rep.append("## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)\n")
+    rep += [f"- {s}: {u}" for s, u in manual]
     rep.append("")
 rep.append("## Quiet\n")
 rep += [f"- {s} ({note})" for s, note in unchanged]
