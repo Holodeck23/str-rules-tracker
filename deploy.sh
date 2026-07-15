@@ -1,9 +1,5 @@
 #!/bin/sh
-# Vercel build shim: pull current source+data from GitHub, generate the site.
+# Vercel build command. The repo is already checked out at build time, so just
+# generate the site from local source — no need to re-fetch anything over HTTP.
 set -e
-R=https://raw.githubusercontent.com/Holodeck23/str-rules-tracker/master
-mkdir -p data
-curl -fsSL $R/build.py -o build.py
-curl -fsSL $R/data/markets.json -o data/markets.json
-curl -fsSL $R/data/changelog.json -o data/changelog.json
 python3 build.py

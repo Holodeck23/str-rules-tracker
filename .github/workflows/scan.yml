@@ -1,21 +1,39 @@
 name: daily-source-scan
 on:
   schedule:
-    - cron: "0 4 * * *"   # 04:00 UTC daily — report ready before David's morning
+    - cron: "0 4 * * *"   # 04:00 UTC daily — report ready before the morning
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: source-scan
+  cancel-in-progress: false
 jobs:
   scan:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
       - name: Run source scan
         run: python3 scan.py
       - name: Commit snapshots + report
         run: |
           git config user.name "register-scanner"
           git config user.email "actions@github.com"
-          git add snapshots scan-report.md
+          # rebase in any manual verification commit pushed since the run started
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git add snapshots reports scan-report.md data/scan-state.json scan-alert.txt 2>/dev/null || true
           git diff --cached --quiet || git commit -m "scan: $(date -u +%F) source check"
           git push
+      - name: Fail the run if a human is needed
+        # runs AFTER the commit/push, so the report is saved even when we fail.
+        # A failed scheduled run emails the repo owner — that IS the alert channel.
+        run: |
+          if [ -f scan-alert.txt ]; then
+            echo "::error::Register needs review:"
+            cat scan-alert.txt
+            exit 1
+          fi
+          echo "No action needed."
