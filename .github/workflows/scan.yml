@@ -22,12 +22,20 @@ jobs:
         run: |
           git config user.name "register-scanner"
           git config user.email "actions@github.com"
-          # sync to remote (automation context: hard reset is safe, no collaborative conflicts)
-          git fetch origin "${GITHUB_REF_NAME}"
-          git reset --hard "origin/${GITHUB_REF_NAME}"
+          # Commit FIRST — converts scan.py's untracked output into a tracked commit,
+          # which removes the "untracked file would be overwritten" collision that broke
+          # the old pull --rebase --autostash. Then rebase our scan commit onto whatever
+          # landed while we ran (a human verification commit touches different files, so
+          # the rebase is clean) and push.
           git add snapshots reports scan-report.md data/scan-state.json scan-alert.txt 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "scan: $(date -u +%F) source check"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "scan: $(date -u +%F) source check"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
+            git push
+          fi
       - name: Fail the run if a human is needed
         # runs AFTER the commit/push, so the report is saved even when we fail.
         # A failed scheduled run emails the repo owner — that IS the alert channel.
