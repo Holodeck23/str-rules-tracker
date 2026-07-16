@@ -22,8 +22,9 @@ jobs:
         run: |
           git config user.name "register-scanner"
           git config user.email "actions@github.com"
-          # rebase in any manual verification commit pushed since the run started
-          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          # sync to remote (automation context: hard reset is safe, no collaborative conflicts)
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
           git add snapshots reports scan-report.md data/scan-state.json scan-alert.txt 2>/dev/null || true
           git diff --cached --quiet || git commit -m "scan: $(date -u +%F) source check"
           git push
