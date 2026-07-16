@@ -1,117 +1,28 @@
 # Scan report — 2026-07-16
 
-**6 changed · 0 unreachable · 0 DEAD · 17 quiet**
-
-## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
-
-### salzburg — https://www.stadt-salzburg.at
-**Added:**
-> + Nicht verpassen! Aktuelle Termine in Salzburg Terminkalender BWS Gnigl / Schallmoos Pilates
-> + Bleiben Sie beweglich. 70 Euro für 10 Einheiten. Einstieg jederzeit möglich!
-> + BWS Gnigl/Schallmoos, Fritschgasse 5 Frauen Kostenlose Rechtsberatung für Frauen
-> + Beratungsgespräch zur Erstinformation bei Rechtsfragen und Problemen, wir helfen und beraten auch bei Gewalt in der Familie. Terminvereinbarung notwendig!
-> + Frauenbüro / Team Vielfalt, Mirabellplatz 4 Die Bewegte Stadt - Sport-Angebote Beachvolleyball-Training im Freibad Leopoldskron
-> + Terminkalender BWS Lehen / Taxham / Bolaring Lesen, Schreiben, Forschen – Vertiefendes Deutsch
-> + Bewohnerservice Lehen / Taxham Kinderbildung und Kinderbetreuung Fantasie und Kreativität
-> + An diesem Vormittag wird zu einem dieser Themen gebastelt und informiert. Anmeldung erforderlich.
-> + BWS Aigen/Parsch, Aigner Straße 78 Terminkalender BWS Itzling Cupcakes dekorieren mit Daniela
-> + Gemeinsam Cupcakes backen und Frühstücken
-> + BWS Elisabeth Vorstadt Sprachförderung Deutsch-Konversationsgruppe für Frauen
-> + BWS Gnigl/Schallmoos, Fritschgasse 5 Terminkalender BWS Gnigl / St. Anna Außenstelle Spielcafé
-**Removed:**
-> - Nicht verpassen! Aktuelle Termine in Salzburg Terminkalender BWS Itzling Lerntreff
-> - Kinder im Alter von 6 bis 12 Jahren erhalten Unterstützung bei Hausübungen und können Unterrichtsthemen wiederholen.
-> - BWS Itzling, Reimsstraße 6 Terminkalender BWS Lehen / Taxham / Bolaring Lesen, Schreiben, Forschen – Vertiefendes Deutsch
-> - Bewohnerservice Lehen / Taxham Terminkalender BWS Lehen / Taxham / Bolaring Theaterprojekt für Senioren jeden Alters mit Spielfreude und Lust am Ausprobieren
-> - BWS Lehen/Taxham, Aigner Straße 78 Terminkalender BWS Elisabeth-Vorstadt Rap dich in die Ferien!
-> - BWS E-Vorstadt, Elisabethstraße 9 Terminkalender BWS Salzburg-Süd Nordic Walking
-> - Gemeinsam in Bewegung bleiben. Jeden Dienstag 9.30 Uhr. Teilnahme ist kostenlos, einfach hin kommen und mit walken!
-> - BWS Salzburg-Süd, Hans-Webersdorfer-Straße 27 Terminkalender BWS Gnigl / Schallmoos Nordic Walking
-> - In frischer Luft gemeinsam in unserer schönen Stadt in Bewegung bleiben. Einstieg jederzeit möglich.
-> - BWS Gnigl/Schallmoos, Fritschgasse 5 Seniorinnen und Senioren Gemeinsamer Mittagstisch
-> - Jeden Dienstag und Donnerstag Mittagstisch um € 9,00. Anmeldung eine Woche vorher erforderlich!
-> - BWS Salzburg-Süd, Hans-Webersdorfer-Straße 27 Terminkalender BWS Aigen / Parsch Spielenachmittag „Hobby & Geist“
-
-### porto — https://www.cm-porto.pt
-**Added:**
-> + Bandas do STOP atuam nos coretos da cidade até setembro
-> + Embaixadora do Paquistão recebida nos Paços do Concelho
-> + O que pensam os portuenses dos transportes gratuitos?
-> + Mercado do Bolhão volta a ter 100% de ocupação nas bancas de frescos
-> + Competitividade, investimento e inovação no cerne do futuro da economia da Invicta
-**Removed:**
-> - CAMPUS Paulo Cunha e Silva promove oficina sobre as plantas e a relação com o corpo
-> - Homenagear o legado do mapa humano portuense a olhar para o futuro da cidade
-> - Piscinas municipais abrem período de renovação das inscrições
-> - Adesão ao Cartão Porto. pode ser feita online de forma fácil e rápida
-> - AM aprova alteração ao regulamento do Conselho Municipal de Cultura
-
-### rome — https://www.comune.roma.it
-**Added:**
-> + Allerta ondate di calore: bollino rosso anche nei prossimi giorni
-> + Allerta ondate di calore: bollino rosso anche nei prossimi giorni
-> + Indice Qualità dell'Aria del 14.07.2026
-> + Avviso Pubblico per l'assegnazione di ulteriori settimane, e per l'accoglimento di domande fuori termine e apertura nuove iscrizioni Centro Ricreativo Estivo “BORUSSIA VILLAGE 2026”
-> + Avviso Pubblico per l’assegnazione di ulteriori settimane, per l’accoglimento di domande fuori termine e apertura per nuove iscrizioni al Centro Ricreativo Estivo del Municipio Roma VI delle Torri den
-> + Avvisi per nomine 15 lug 2026
-> + Pubblicazione Nomina Commissione giudicatrice delle offerte pervenute nell'ambito della procedura negoziata del servizio: Club socializzante per persone con disabilità che necessitano di sostegni di g
-> + Avviso pubblico per l'assegnazione in affitto di 11 alloggi di edilizia residenziale pubblica agevolata, situati a Roma in Viale Luigi Moretti n. 150, riservati a persone con più di 65 anni oppure con
-> + Decreto impositivo n. 01 del 03.06.2026 relativo al rinnovo della Servitù Militare a protezione dell'opera denominata "Stazione Radio del Centro Telecomunicazioni M.M." – sita in località S. Rosa di M
-> + Il Parco del Colle Oppio recupera il suo volto storico
-> + Con i fondi PNRR restituiti alla città le fontane e i portali di accesso del giardino.
-> + Roma Capitale torna in possesso dell'impianto sportivo di via di Tor di Quinto
-**Removed:**
-> - Allerta ondate di calore: bollino rosso nei prossimi giorni
-> - Allerta ondate di calore: bollino rosso nei prossimi giorni
-> - Indice Qualità dell'Aria del 13.07.2026
-> - Elenco permanente di Organismi, Enti, Associazioni e professionisti del privato sociale ai quali poter richiedere prestazioni di supporto psicologico e/o psicoterapeutico
-> - elenco aggiornato al 15/07/2026
-> - Servizio di Manutenzione ordinaria del verde e decoro nei parchi pubblici del Municipio XII: Quattro venti, Tantucci, Gattinoni, Quaroni, Vanni, Ranelletti, Guerra
-> - Determinazione Dirigenziale CQ 1197 del 25/06/2026 (D.D. Liquidazione)
-> - Avviso pubblico per la presentazione di proposte finalizzate alla conclusione di un Patto di collaborazione per il coordinamento dello spazio dell'Aula Studio denominata "Trionfale" (Municipio I)
-> - È stata pubblicata all'Albo Pretorio online di Roma Capitale la Determinazione Dirigenziale n. 231 del 10/07/2026  prot. n. RT/4909 con la quale è stato approvato l’Avviso pubblico per la presentazion
-> - Affidamento diretto per la realizzazione dell'iniziativa denominata "100 Volte Tor Pigna – Memoria, comunità, futuro". Anno 2026
-> - Norme Tecniche Attuazione PRG: Roma Capitale invia risposta tecnica a Regione
-> - La delibera prosegue l'iter di approvazione in Aula.
-
-## ⚠ Uncategorized changes — skim these
-
-### prague — https://www.praha.eu
-**Added:**
-> + Víkend 18. a 19. července v Praze
-> + Z kulturních a volnočasových událostí v metropoli o nadcházejícím víkendu vybíráme několik tipů.
-**Removed:**
-> - Letošní 21. ročník open-air přehlídky, která propojuje špičkový světový jazz s jedinečnými historickými kulisami, začíná 14. července v Praze.
+**1 changed · 0 unreachable · 0 DEAD · 22 quiet**
 
 ## ℹ Likely fluff (events, calendars)
 
-### barcelona — https://ajuntament.barcelona.cat/turisme/en
+### rome — https://www.comune.roma.it
 **Added:**
-> + When: Del 01/09/2026 al 31/12/2026
-> + Where: Sessions presencials a: Barcelona, Cerdanya i l’Escala (per determinar)
+> + Avviso pubblico per l'affidamento in uso temporaneo degli spazi sportivi scolastici del Municipio XIV
+> + Sostituzione di un componente della Commissione di valutazione.
+> + Elenco permanente di Organismi, Enti, Associazioni e professionisti del privato sociale ai quali poter richiedere prestazioni di supporto psicologico e/o psicoterapeutico
+> + elenco aggiornato al 15/07/2026
+> + La natura futurista dell'esistenza, story telling su Lina Passalacqua
+> + Al Museo Carlo Bilotti Aranciera di Villa Borghese.
+> + Al via da luglio la seconda edizione di Playground
+> + Il progetto di sostegno alla drammaturgia contemporanea emergente.
 **Removed:**
-> - Convocatòria XXII Premis CETT Fundació – Projectes emprenedors 2026
-> - When: Del 30/04/2026 al 19/10/2026
-> - Where: Presentació per internet
-
-### florence — https://www.comune.fi.it
-**Added:**
-> + Informazioni dalla Sala Operativa Comunale Bollettino del 15/07/2026 - Allerta Ondata di Calore LIVELLO 3 Codice ROSSO in data 15/07/2026, LIVELLO 3 Codice ROSSO in data 16/07/2026
-> + Ondate di calore, ecco i 53 rifugi climatici di Firenze. Alle Biblioteche e ai parchi ombreggiati con acqua fresca si aggiungono adesso anche le sedi dei quartieri Leggi sul sito tematico a proposito 
-> + Ripartono le attività di prevenzione e controllo della proliferazione delle zanzare nelle aree pubbliche: info utili e buone pratiche Leggi sul sito tematico a proposito di Difenditi dalle zanzare Not
-> + Dalle ore 13 di giovedì 9 luglio 2026 sarà attivo il servizio online per la presentazione della richiesta “Contributo regionale buoni scuola 2026-2027" Leggi sul sito tematico a proposito di Contribut
-> + Prosegue l'attività di raccolta fondi per il progetto che prevede un ciclo di laboratori, un concorso di disegno e un’esposizione per raccontare la biodiversità che ci circonda ogni giorno, coinvolgen
-> + Bonus sociale idrico integrativo - Anno 2026
-> + Sono pubblicati gli elenchi delle domande ammesse e non ammesse al Bonus Idrico Integrativo 2026. Leggi sul sito tematico a proposito di Bonus sociale idrico integrativo - Anno 2026 Eventi Luglio 2026
-> + Gio Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
-**Removed:**
-> - Informazioni dalla Sala Operativa Comunale Bollettino del 14/07/2026 - Allerta Ondata di Calore LIVELLO 3 Codice ROSSO in data 14/07/2026, LIVELLO 3 Codice ROSSO in data 15/07/2026
-> - Avviso 13 Luglio 2026 Cantieri in corso e in fase di avvio Una serie di interventi programmati e di lavori comunali. Informazioni utili sui lavori, le modalità di intervento e la viabilità. Vai alla p
-> - Ripartono le attività di prevenzione e controllo della proliferazione delle zanzare nelle aree pubbliche: info utili e buone pratiche Leggi sul sito tematico a proposito di Difenditi dalle zanzare Not
-> - Ondate di calore, ecco i 53 rifugi climatici di Firenze. Alle Biblioteche e ai parchi ombreggiati con acqua fresca si aggiungono adesso anche le sedi dei quartieri Leggi sul sito tematico a proposito 
-> - Dalle ore 13 di giovedì 9 luglio 2026 sarà attivo il servizio online per la presentazione della richiesta “Contributo regionale buoni scuola 2026-2027" Leggi sul sito tematico a proposito di Contribut
-> - Prosegue l'attività di raccolta fondi per il progetto che prevede un ciclo di laboratori, un concorso di disegno e un’esposizione per raccontare la biodiversità che ci circonda ogni giorno, coinvolgen
-> - Mer Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - Avviso Pubblico per l'assegnazione di ulteriori settimane, e per l'accoglimento di domande fuori termine e apertura nuove iscrizioni Centro Ricreativo Estivo “BORUSSIA VILLAGE 2026”
+> - Avviso Pubblico per l’assegnazione di ulteriori settimane, per l’accoglimento di domande fuori termine e apertura per nuove iscrizioni al Centro Ricreativo Estivo del Municipio Roma VI delle Torri den
+> - Avvisi per nomine 15 lug 2026
+> - Pubblicazione Nomina Commissione giudicatrice delle offerte pervenute nell'ambito della procedura negoziata del servizio: Club socializzante per persone con disabilità che necessitano di sostegni di g
+> - Le vie dell'acqua, rassegna alla Casa del Cinema
+> - Il mare in primo piano nelle opere di Hitchcock, McTiernan, Edwards, Wertmüller, Miyazaki.
+> - Bioparco al tramonto, prolungamento straordinario orario
+> - Osservare gli animali sotto un'altra luce.
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -127,12 +38,17 @@
 ## Quiet
 
 - vienna (no change)
+- salzburg (no change)
 - berlin (no change)
 - munich (no change)
+- barcelona (no change)
+- porto (no change)
 - paris (no change)
 - london (no change)
 - dublin (no change)
+- prague (no change)
 - budapest (no change)
+- florence (no change)
 - new-york (no change)
 - miami (no change)
 - miami (alt 2) (no change)
