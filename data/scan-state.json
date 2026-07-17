@@ -1,94 +1,94 @@
 {
  "austin#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "barcelona#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "berlin#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "budapest#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "cape-town#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "dublin#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "florence#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "london#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "miami#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "miami#1": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "munich#0": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-07-16"
  },
  "new-york#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "paris#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "porto#0": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-07-16"
  },
  "prague#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "rome#0": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-07-16"
  },
  "salzburg#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "singapore#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "sydney#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "tokyo#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "toronto#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "vancouver#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  },
  "vienna#0": {
   "fails": 0,
-  "last_ok": "2026-07-16"
+  "last_ok": "2026-07-17"
  }
 }
