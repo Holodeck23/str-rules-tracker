@@ -50,7 +50,8 @@
    "enforcement": "",
    "history": [],
    "severity": "restricted",
-   "verdict": "Apartment STRs are effectively closed to newcomers without a dedicated permit."
+   "verdict": "Apartment STRs are effectively closed to newcomers without a dedicated permit.",
+   "watch": "manual"
   },
   {
    "slug": "berlin",
