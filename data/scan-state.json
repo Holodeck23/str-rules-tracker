@@ -40,8 +40,8 @@
   "last_ok": "2026-07-17"
  },
  "munich#0": {
-  "fails": 1,
-  "last_ok": "2026-07-16"
+  "fails": 0,
+  "last_ok": "2026-07-17"
  },
  "new-york#0": {
   "fails": 0,
@@ -52,18 +52,14 @@
   "last_ok": "2026-07-17"
  },
  "porto#0": {
-  "fails": 1,
-  "last_ok": "2026-07-16"
+  "fails": 0,
+  "last_ok": "2026-07-17"
  },
  "prague#0": {
   "fails": 0,
   "last_ok": "2026-07-17"
  },
  "rome#0": {
-  "fails": 1,
-  "last_ok": "2026-07-16"
- },
- "salzburg#0": {
   "fails": 0,
   "last_ok": "2026-07-17"
  },

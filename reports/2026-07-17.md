@@ -1,88 +1,54 @@
 # Scan report — 2026-07-17
 
-**5 changed · 3 unreachable · 0 DEAD · 15 quiet**
+**2 changed · 0 unreachable · 0 DEAD · 20 quiet**
 
 ## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
 
-### salzburg — https://www.stadt-salzburg.at
+### porto — https://www.cm-porto.pt
 **Added:**
-> + Nicht verpassen! Aktuelle Termine in Salzburg Terminkalender BWS Salzburg-Süd Freitagsfrühstück im „Seniorentreff“
-> + Jeden Freitag gemeinsam Frühstücken und plaudern, Kosten 6 Euro - Anmeldung erbeten!
-> + Café Treffpunkt Süd, Hans-Webersdorfer-Straße 27 Terminkalender BWS Elisabeth-Vorstadt Ferienprogramm
-> + BWS E-Vorstadt, Elisabethstraße 9 Terminkalender BWS Elisabeth-Vorstadt Entdeckt die spannende Welt der Salzburger Lokalbahn!
-> + BWS E-Vorstadt, Elisabethstraße 9 Sprachförderung Englisch-Konversation
-> + Jeden Freitag 10.00 - 11.00 Uhr Sprachkenntnisse auffrischen! Die Teilnahme ist kostenlos!
-> + BWS Salzburg-Süd, Hans-Webersdorfer-Straße 27 Kultur Curtis Talwst Santiago - Two Things Can Be True in Light
-> + Stadtgalerie Zwergelgartenpavillon
-> + Terminkalender BWS Gnigl / Schallmoos Spiel, Spaß und Action
-> + BWS Gnigl/Schallmoos, Fritschgasse 5 Terminkalender BWS Lehen / Taxham / Bolaring Ihre ID Austria – wir unterstützen Sie!
-> + Wir unterstützen Sie bei der Einrichtung Ihrer ID-Austria
-> + BWS Lehen/Taxham, Strubergasse 27A Terminkalender BWS Itzling Lerntreff
+> + Nova temporada do Teatro Municipal do Porto com espetáculos gratuitos, regressos aclamados e estreias absolutas
+> + Valorização do ensino profissional permite construção do próprio projeto de vida
+> + Festival Alquimia transforma Coliseu num grande palco com dezenas de atividades
+> + Vizinhanças promove sete domingos especiais em espaços públicos da cidade
+> + Maquete 3D em plástico biodegradável materializa edifício dos Paços do Concelho
 **Removed:**
-> - Nicht verpassen! Aktuelle Termine in Salzburg Terminkalender BWS Gnigl / Schallmoos Pilates
-> - Bleiben Sie beweglich. 70 Euro für 10 Einheiten. Einstieg jederzeit möglich!
-> - BWS Gnigl/Schallmoos, Fritschgasse 5 Frauen Kostenlose Rechtsberatung für Frauen
-> - Beratungsgespräch zur Erstinformation bei Rechtsfragen und Problemen, wir helfen und beraten auch bei Gewalt in der Familie. Terminvereinbarung notwendig!
-> - Frauenbüro / Team Vielfalt, Mirabellplatz 4 Die Bewegte Stadt - Sport-Angebote Beachvolleyball-Training im Freibad Leopoldskron
-> - Terminkalender BWS Lehen / Taxham / Bolaring Lesen, Schreiben, Forschen – Vertiefendes Deutsch
-> - Einfach vorbeikommen und mit falten!
-> - Bewohnerservice Lehen / Taxham Kinderbildung und Kinderbetreuung Fantasie und Kreativität
-> - An diesem Vormittag wird zu einem dieser Themen gebastelt und informiert. Anmeldung erforderlich.
-> - BWS Aigen/Parsch, Aigner Straße 78 Terminkalender BWS Itzling Cupcakes dekorieren mit Daniela
-> - Gemeinsam Cupcakes backen und Frühstücken
-> - BWS Elisabeth Vorstadt Sprachförderung Deutsch-Konversationsgruppe für Frauen
+> - Bandas do STOP atuam nos coretos da cidade até setembro
+> - Embaixadora do Paquistão recebida nos Paços do Concelho
+> - O que pensam os portuenses dos transportes gratuitos?
+> - Mercado do Bolhão volta a ter 100% de ocupação nas bancas de frescos
+> - Competitividade, investimento e inovação no cerne do futuro da economia da Invicta
 
-## ⚠ Uncategorized changes — skim these
-
-### paris — https://www.paris.fr/en/pages/furnished-vacation-rentals-rules-to-follow-34993
-**Removed:**
-> - Was this information useful to you?
-> - Please note : we cannot reply via this form (please do not include any personal information).
-> - Attention: it seems you have provided personal information in your comment, but we cannot handle individual requests through this channel.
-
-### dublin — https://www.failteireland.ie
+### rome — https://www.comune.roma.it
 **Added:**
-> + HELPING YOUR TOURISM BUSINESS STAY AHEAD
-> + THE NEW FAILTEIRELAND.IE LAUNCHES 28
-> + Access reputation for value supports
-> + Access the Reputation for Value supports, practical resources designed to help businesses improve how they create, communicate and deliver value to customer
+> + Indice Qualità dell'Aria del 15.07.2026
+> + Tendenza: In peggioramento
+> + Educazione all'effettività 2026/27, proroga termini per aderire
+> + La scadenza fissata per inviare la manifestazione di interesse è stata rinviata al prossimo lunedì 20 luglio 2026
+> + Gara in 4 lotti con operatore unico per servizi di pronto intervento sociale per persone senza dimora, area Centro Storico – Mura Aureliane
+> + Approvata l'esecuzione in via d'urgenza del Lotto 4 dal 01/07/2026 al 30/06/2028.
+> + Servizio d'Ingegneria ed Architettura per la progettazione, la direzione dei lavori ed il coordinamento della sicurezza nelle fasi di progettazione e di esecuzione degli interventi di manutenzione str
+> + Determinazione Dirigenziale CQ 1189 del 23/06/2026 (D.D. Conto Finale)
+> + Procedura aperta finalizzata alla conclusione di un Accordo Quadro servizi Sistema di Accoglienza persone adulte in condizione di marginalità e disagio psico sociale
+> + Approvato l'aumento delle prestazioni del Lotto 1 per il periodo dal 22/06/2026 al 15/09/2026.
+> + Firmata la Dichiarazione di Roma per una Pace Disarmata e Disarmante
+> + Gualtieri: "Per uno sviluppo che concili crescita economica, giustizia sociale, tutela ambientale e diritti umani".
 **Removed:**
-> - NEW: Reputation for Value Supports
-> - The Reputation for Value supports are practical resources designed to help businesses improve how they create, communicate and deliver value to customers.
-> - Have you got a great event happening in Ireland this year? Want to promote it on Fáilte Ireland's Consumer Websites?
-
-## ℹ Likely fluff (events, calendars)
-
-### prague — https://www.praha.eu
-**Added:**
-> + Krátkodobé přerušení provozu tramvají v úseku Jiráskovo náměstí – Staroměstská
-> + V neděli 19. července 2026 od 9.00 hodin do 18.00 hodin nepojedou tramvaje v úseku Jiráskovo náměstí – Staroměstská (v obou směrech). Důvodem je údržba tramvajové trati.
-> + Přerušení provozu tramvají v úseku Újezd – Lazarská
-> + Od soboty 18. července do pondělí 10. srpna bude přerušen provoz tramvají v úseku Újezd – Lazarská. Důvodem je oprava tramvajové trati a stavební práce omezí částečně i automobilovou dopravu.
-**Removed:**
-> - Omezení provozu tramvají: Bílá labuť - Palmovka
-> - Z důvodu poškození tramvajové tratě vlivem meteosituace jsou do odvolání zavedena dopravní opatření týkající se provozu tramvají v úseku Bílá labuť – Palmovka ve směru z centra.
-> - Festival Za dveřmi slaví 18. narozeniny
-> - Divadlo s domácími i zahraničními hvězdami, nový cirkus, akrobacii i hudbu pod širým nebem nabídne od 14. do 19. července festival Za dveřmi.
-
-### florence — https://www.comune.fi.it
-**Added:**
-> + Informazioni dalla Sala Operativa Comunale Bollettino del 16/07/2026 - Allerta Ondata di Calore LIVELLO 3 Codice ROSSO in data 16/07/2026, LIVELLO 3 Codice ROSSO in data 17/07/2026
-> + Sono pubblicati gli elenchi delle domande ammesse e non ammesse al Bonus Idrico Integrativo 2026. Leggi sul sito tematico a proposito di Bonus sociale idrico integrativo - Anno 2026 Eventi Luglio/Agos
-> + Ven Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
-**Removed:**
-> - Informazioni dalla Sala Operativa Comunale Bollettino del 15/07/2026 - Allerta Ondata di Calore LIVELLO 3 Codice ROSSO in data 15/07/2026, LIVELLO 3 Codice ROSSO in data 16/07/2026
-> - Sono pubblicati gli elenchi delle domande ammesse e non ammesse al Bonus Idrico Integrativo 2026. Leggi sul sito tematico a proposito di Bonus sociale idrico integrativo - Anno 2026 Eventi Luglio 2026
-> - Gio Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
-
-## ✗ Unreachable today (watching)
-
-- munich: https://stadt.muenchen.de/infos/zweckentfremdung.html — `URLError: <urlopen error [Errno 101] Network is unreachable>` (day 1)
-- porto: https://www.cm-porto.pt — `URLError: <urlopen error timed out>` (day 1)
-- rome: https://www.comune.roma.it — `URLError: <urlopen error timed out>` (day 1)
+> - Indice Qualità dell'Aria del 14.07.2026
+> - Avviso pubblico per l'affidamento in uso temporaneo degli spazi sportivi scolastici del Municipio XIV
+> - Sostituzione di un componente della Commissione di valutazione.
+> - Avviso pubblico per l'assegnazione in affitto di 11 alloggi di edilizia residenziale pubblica agevolata, situati a Roma in Viale Luigi Moretti n. 150, riservati a persone con più di 65 anni oppure con
+> - Decreto impositivo n. 01 del 03.06.2026 relativo al rinnovo della Servitù Militare a protezione dell'opera denominata "Stazione Radio del Centro Telecomunicazioni M.M." – sita in località S. Rosa di M
+> - Elenco permanente di Organismi, Enti, Associazioni e professionisti del privato sociale ai quali poter richiedere prestazioni di supporto psicologico e/o psicoterapeutico
+> - elenco aggiornato al 15/07/2026
+> - Ondate di calore, bollino rosso il 15 e 16 luglio
+> - I consigli della Protezione Civile per affrontare il caldo.
+> - Roma Capitale torna in possesso dell'impianto sportivo di via di Tor di Quinto
+> - Il Consiglio di Stato ha confermato la decadenza della concessione.
+> - A casa di Moravia: viaggio nella Roma del Novecento
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
+- salzburg: https://www.stadt-salzburg.at
 - madrid: https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-urbanismo-y-obras/Viviendas-de-Uso-Turistico/?vgnextoid=b0fb828a3167f810VgnVCM2000001f4a900aRCRD&vgnextchannel=593e31d3b28fe410VgnVCM1000000b205a0aRCRD
 - lisbon: https://www.lisboa.pt/en/themes/urban-planning/studies-plans-and-programs/studies-and-plans/local-accommodation
 - amsterdam: https://www.amsterdam.nl/wonen-leefomgeving/wonen/vakantieverhuur/
@@ -96,9 +62,14 @@
 
 - vienna (no change)
 - berlin (no change)
+- munich (no change)
 - barcelona (no change)
+- paris (no change)
 - london (no change)
+- dublin (no change)
+- prague (no change)
 - budapest (no change)
+- florence (no change)
 - new-york (no change)
 - miami (no change)
 - miami (alt 2) (no change)
