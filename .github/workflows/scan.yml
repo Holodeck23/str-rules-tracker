@@ -36,13 +36,17 @@ jobs:
             git rebase "origin/${GITHUB_REF_NAME}"
             git push
           fi
-      - name: Fail the run if a human is needed
-        # runs AFTER the commit/push, so the report is saved even when we fail.
-        # A failed scheduled run emails the repo owner — that IS the alert channel.
+      - name: Surface review items (non-failing — daily email disabled 2026-07-17)
+        # Previously exited 1 to trigger GitHub's failed-run email as the alert channel.
+        # Disabled: most auto-scan sources are city homepages whose calendars churn daily,
+        # producing false high-signal alerts (salzburg/porto/rome...) and a daily email.
+        # The scan still runs, commits reports/snapshots, and writes scan-alert.txt for
+        # review on demand — it just no longer fails the run. To re-enable email alerts,
+        # restore `exit 1` below (and first fix the noisy source URLs / tag them watch:manual).
         run: |
           if [ -f scan-alert.txt ]; then
-            echo "::error::Register needs review:"
+            echo "::notice::Register review items (see scan-alert.txt / reports/):"
             cat scan-alert.txt
-            exit 1
+          else
+            echo "No action needed."
           fi
-          echo "No action needed."
