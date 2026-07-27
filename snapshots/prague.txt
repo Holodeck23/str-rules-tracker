@@ -1,6 +1,4 @@
 Portál hlavního města Prahy
-Zákaz rozdělávání ohňů na rizikových místech v Praze
-V neděli 26. července 2026 od 9.00 do 24.00 hodin platí na území Prahy nařízení hl. m. Prahy č. 6/2019 týkající se zákazu rozdělávání ohňů na místech zvýšeného nebezpečí vzniku požáru. Zjistit více
 Praha posiluje protipovodňovou ochranu. Dokončí digitalizaci klíčového systému
 Hlavní město Praha připravuje dokončení digitalizace systému pro správu mobilních protipovodňových opatření. Zjistit více
 Pražané mohou nově žádat o dotace na tepelná čerpadla, zelené střechy i zadržování dešťové vody
@@ -9,6 +7,8 @@ Praha otevřela na Mariánském náměstí výstavu ke 100. narozeninám loutkov
 Výročí 100 let od prvního představení legendární loutkové postavy Hurvínka si v letošním roce připomíná Praha, s níž je Divadlo Spejbla a Hurvínka dlouhodobě neodmyslitelně spjaté. Zjistit více
 Program na podporu akcí v oblasti inovací v hlavním městě Praze pro rok 2027
 Cílem tohoto programu je podpořit konání inovačních akcí na území hlavního města Prahy, a to v období celého roku 2027. Zjistit více
+Pražské zastupitelstvo schválilo nový Územní plán hl. m. Prahy
+Pro další rozvoj hlavního města tento zcela zásadní dokument nabude účinnosti 1. září 2026. Zjistit více
 Stav žádostí o vydání řidičského průkazu
 Rezervace a monitoring návštěv
 Pracoviště registru vozidel
@@ -43,24 +43,24 @@ Praha posiluje protipovodňovou ochranu. Dokončí digitalizaci klíčového sys
 Hlavní město Praha připravuje dokončení digitalizace systému pro správu mobilních protipovodňových opatření.
 Změna trasy a zastávek autobusových linek 123, 149,167 a 191
 Důvodem dočasné změny trasy a zastávek autobusů, která potrvá do pondělí 10. srpna 2026 (do ukončení denního provozu), je další etapa stavebních prací v ulici Plzeňské.
-Tipy na poslední červencový víkend v Praze
-Hudební i kulinářské zážitky nabídnou nadcházející víkendové dny v české metropoli na Hradě, v centru města i na okraji a také na Vltavě…
 Letní uzavírka v Městské knihovně Praha
 Od pondělí 27. července do neděle 9. srpna 2026 jsou pobočky Městské knihovny v Praze s výjimkou Velkého mlýna uzavřeny.
 Údržba pláště a pilířů Karlova mostu
 Pražanům i návštěvníkům metropole se v těchto dnech naskýtá neobvyklá podívaná – čištění Karlova mostu od náletové zeleně, řas a divoké vegetace.
-Výstava Fragmenty paměti: Svatovítský poklad v zrcadle současného umění končí
-Do konce výstavy v Jízdárně Pražského hradu zbývá posledních pár dnů. Bude otevřena již jen do neděle 26. července.
-Livesport Prague Open, největší tenisový turnaj žen v České republice
-V Praze na Štvanici se tento týden hrají zápasy kategorie WTA 250 na tvrdém povrchu, v turnaji nechybí ani české tenistky.
-Zoo Praha: Víkend hmyzožravců
-Na sobotu 25. a neděli 26. července připravila Zoologická zahrada hlavního města Prahy program věnovaný živočichům, kteří se živí převážně hmyzem.
 Přerušení provozu tramvají v úseku Újezd – Lazarská
 Od soboty 18. července do pondělí 10. srpna bude přerušen provoz tramvají v úseku Újezd – Lazarská. Důvodem je oprava tramvajové trati a stavební práce omezí částečně i automobilovou dopravu.
 Letní slavnosti staré hudby 2026
 Skvostné interiéry pražských paláců, klášterů a kostelů se od 16. července do 5. srpna opět stanou místem konání Letních slavností staré hudby.
 Dopravní opatření v MHD: Žitavského - změna trasy a zastávek autobusů
 Od 13. července do konce srpna dojde z důvodu pokládky plynovodu v ulici Žitavského ke změně trasy a zastávek pro linky autobusů 139, 246, 314, 338, 360, 361, 390, 917.
+Oprava Hlávkova mostu omezí automobilovou a tramvajovou dopravu
+Od soboty 11. července do konce srpna bude z důvodu oprav na Hlávkově mostě omezen provoz automobilů a vyloučen provoz tramvají.
+Rekonstrukce komunikace Kbelská: Dopravní opatření, změny v provozu autobusových linek
+Po přípravných pracích začne v noci na 2. července ostrá fáze rekonstrukce komunikace Kbelská, kdy se provoz plně převede do takzvaného režimu „Tunel“.
+Zoo Praha: Prázdninová sleva – v podvečer za stovku
+Od 1. července do 31. srpna platí v Zoologické zahradě hl. m. Prahy možnost vstupu mezi 17. a 19. hodinou za 100 Kč.
+Rostlinná odysea v Botanické zahradě Praha
+Botanická zahrada hlavního města Prahy otevřela stálou expozici věnovanou historii rostlin a k ní výstavu, která potrvá do 20. září.
 Portál Pražana Pražský online úřad, kde vyřešíte, co potřebujete, z klidu domova. Velkoobjemové kontejnery
 Aktuální a důležité informace o bezpečnosti v Praze.
 Protikorupční strategie hl. m. Prahy 2022 - 2027
