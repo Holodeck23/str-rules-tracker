@@ -1,6 +1,6 @@
 Portál hlavního města Prahy
-Meteorologové prodloužili výstrahu před vysokými teplotami a v Praze platí zákaz rozdělávání ohňů na rizikových místech
-Český hydrometeorologický ústav dnes (ČHMÚ) prodloužil výstrahu před vysokými teplotami do 2. srpna 00.00 hodin. Zjistit více
+Počasí: V Praze je vyhlášena smogová situace, platí výstraha před vysokými teplotami, očekávány jsou silné bouřky a do odvolání je vyhlášen zákaz rozdělávání ohně na rizikových místech
+Český hydrometeorologický ústav dnes vyhlásil smogovou situaci pro území hlavního města Prahy s platností do odvolání. Důvodem jsou vysoké koncentrace troposférického ozonu. Zjistit více
 Praha posiluje protipovodňovou ochranu. Dokončí digitalizaci klíčového systému
 Hlavní město Praha připravuje dokončení digitalizace systému pro správu mobilních protipovodňových opatření. Zjistit více
 Pražané mohou nově žádat o dotace na tepelná čerpadla, zelené střechy i zadržování dešťové vody
@@ -21,6 +21,8 @@ The URL can point to any Facebook, Twitch, Vimeo or Youtube video.
 Dneska se zaměříme na situaci, kdy člověk zkolabuje – protože v takové chvíli často rozhodují sekundy a hlavně jasný postup. Hosty jsou Petr Kolouch , ředitel Záchranné služby hl. m. Prahy, a Jaroslava Marková z Českého červeného kříže. Společně srozumitelně projdou, jak reagovat bez paniky, jak rychle poznat, že jde o akutní stav, a jak správně zavolat pomoc. Poslechněte si ho – ať víte, co dělat ve chvíli, kdy na tom bude záležet. ​​​​​​​ Zjistit více
 Zasedání Zastupitelstva hlavního města Prahy
 35. zasedání Zastupitelstva hlavního města Prahy se koná ve čtvrtek 18. června 2026. Zasedání je veřejné a začíná v 9.00 hodin. Sledujte vše k jednání on-line!
+Počasí: V Praze je vyhlášena smogová situace, platí výstraha před vysokými teplotami, očekávány jsou silné bouřky a do odvolání je vyhlášen zákaz rozdělávání ohně na rizikových místech
+Český hydrometeorologický ústav dnes vyhlásil smogovou situaci pro území hlavního města Prahy s platností do odvolání. Důvodem jsou vysoké koncentrace troposférického ozonu.
 Meteorologové prodloužili výstrahu před vysokými teplotami a v Praze platí zákaz rozdělávání ohňů na rizikových místech
 Český hydrometeorologický ústav dnes (ČHMÚ) prodloužil výstrahu před vysokými teplotami do 2. srpna 00.00 hodin.
 Praha v době aktuálních veder zpřístupnila pro veřejnost klimatizované prostory v přízemí Škodova paláce
@@ -39,12 +41,11 @@ Praha revitalizuje ragbyový areál na Smíchově. Vybrala dodavatele za témě�
 Rada hl. m. Prahy schválila výběr dodavatele pro revitalizaci víceúčelového sportovního areálu Rugby Club Tatra Smíchov se zázemím a tribunou.
 Praha zhotoví kopii sochy Rovnováha podle původního výtvarného návrhu Josefa Klimeše
 Rada hl. m. Prahy dnes schválila návrh na uzavření podlicenční smlouvy na zhotovení nové trojrozměrné kopie plastiky s názvem Rovnováha podle původního výtvarného návrhu sochaře Josefa Klimeše.
-Praha postaví unikátní plovoucí heliport pro záchranáře
-Radní hl. m. Prahy dnes schválili výběr dodavatele veřejné zakázky na vybudování plovoucího heliportu na Vltavě u Vyšehradu.
+Letní Grébovka s Divadlem MA
+Open-air festival, který má letos 7. ročník, promění mezi 3. a 28. srpnem novorenesanční Grottu v pražských Havlíčkových sadech v komorní divadelní scénu pod širým nebem.
+Letošní 16. ročník LGBT+ festivalu Prague Pride, se v české metropoli uskuteční od 3. do 9. srpna a ponese téma „Časy se mění“.
 Na pražských zastávkách MHD přibývají nové digitální odjezdové panely
 Organizace ROPID v letošním roce nainstalovala samostatně stojící elektronické odjezdové panely na dalších 31 významných tramvajových a autobusových zastávkách Praze.
-Zoo Praha: Ledové osvěžení pro lední medvědy
-Ve čtvrtek 30. července zasype výběh ledních medvědů v Zoologické zahradě hl. m. Prahy několik tun ledu.
 V areálu Holešovické tržnice se o prvním srpnovém víkendu bude konat další letošní výběrový trh Dyzajn market.
 Zoo Praha: Oslava Světového dne strážců přírody
 Na sobotu 1. srpna připravila Zoologická zahrada hl. m. Prahy program věnovaný těm, kteří mají klíčovou roli při ochraně světového přírodního a kulturního bohatství.
@@ -58,8 +59,6 @@ Přerušení provozu tramvají v úseku Újezd – Lazarská
 Od soboty 18. července do pondělí 10. srpna bude přerušen provoz tramvají v úseku Újezd – Lazarská. Důvodem je oprava tramvajové trati a stavební práce omezí částečně i automobilovou dopravu.
 Letní slavnosti staré hudby 2026
 Skvostné interiéry pražských paláců, klášterů a kostelů se od 16. července do 5. srpna opět stanou místem konání Letních slavností staré hudby.
-Dopravní opatření v MHD: Žitavského - změna trasy a zastávek autobusů
-Od 13. července do konce srpna dojde z důvodu pokládky plynovodu v ulici Žitavského ke změně trasy a zastávek pro linky autobusů 139, 246, 314, 338, 360, 361, 390, 917.
 Portál Pražana Pražský online úřad, kde vyřešíte, co potřebujete, z klidu domova. Velkoobjemové kontejnery
 Aktuální a důležité informace o bezpečnosti v Praze.
 Protikorupční strategie hl. m. Prahy 2022 - 2027
