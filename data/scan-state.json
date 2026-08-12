@@ -1,90 +1,90 @@
 {
  "austin#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "barcelona#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "berlin#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "budapest#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "cape-town#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "dublin#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "florence#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "london#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "miami#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "miami#1": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "munich#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "new-york#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "paris#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "porto#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "prague#0": {
-  "fails": 1,
-  "last_ok": "2026-08-10"
+  "fails": 0,
+  "last_ok": "2026-08-12"
  },
  "rome#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "singapore#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "sydney#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "tokyo#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "toronto#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  },
  "vancouver#0": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-08-10"
  },
  "vienna#0": {
   "fails": 0,
-  "last_ok": "2026-08-11"
+  "last_ok": "2026-08-12"
  }
 }
