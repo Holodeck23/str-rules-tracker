@@ -1,1 +1,2 @@
-3 high-signal change(s): barcelona, rome, florence
+2 high-signal change(s): florence, cape-town
+1 dead source(s): vancouver
