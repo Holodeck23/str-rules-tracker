@@ -1,6 +1,4 @@
 Portál hlavního města Prahy
-Nová výstraha meteorologů ohledně vysokých teplot. Pro Prahu platí nadále zákaz rozdělávání ohně na rizikových místech
-Podle dnešní informace Českého hydrometeorologického ústavu (ČHMÚ) jsou o nastávajícím víkendu očekávány vysoké teploty a pro Prahu je v platnosti do odvolání výstraha před rizikem požárů. Zjistit více
 Den s pražskou záchrankou na Staroměstském náměstí
 V úterý 25. srpna na vás čekají od 10.00 do 19.00 hodin ukázky zásahů a techniky pražských záchranářů, praktický nácvik první pomoci i program pro děti a dospělé. Zjistit více
 Praha zahajuje přípravu rekonstrukce Kasáren Karlín. Historický areál získá nové využití pro veřejnost
@@ -21,6 +19,8 @@ The URL can point to any Facebook, Twitch, Vimeo or Youtube video.
 Dneska se zaměříme na situaci, kdy člověk zkolabuje – protože v takové chvíli často rozhodují sekundy a hlavně jasný postup. Hosty jsou Petr Kolouch , ředitel Záchranné služby hl. m. Prahy, a Jaroslava Marková z Českého červeného kříže. Společně srozumitelně projdou, jak reagovat bez paniky, jak rychle poznat, že jde o akutní stav, a jak správně zavolat pomoc. Poslechněte si ho – ať víte, co dělat ve chvíli, kdy na tom bude záležet. ​​​​​​​ Zjistit více
 Zasedání Zastupitelstva hlavního města Prahy
 35. zasedání Zastupitelstva hlavního města Prahy se koná ve čtvrtek 18. června 2026. Zasedání je veřejné a začíná v 9.00 hodin. Sledujte vše k jednání on-line!
+Pro Prahu platí do odvolání zákaz rozdělávání ohně na rizikových místech
+Podle dnes aktualizované informace Českého hydrometeorologického ústavu (ČHMÚ) je pro Prahu v platnosti do odvolání výstraha před rizikem požárů.
 Odpad z centra města zamířil na Mariánské náměstí. Cílem je získat data pro čistší město
 Hlavní město a městská část Praha 1 spolu s dalšími partnery uskutečnily ve čtvrtek a pátek 13. a 14. srpna letní analýzu odpadu z veřejných košů.
 Nová výstraha meteorologů ohledně vysokých teplot. Pro Prahu platí nadále zákaz rozdělávání ohně na rizikových místech
@@ -39,11 +39,6 @@ Praha pokračuje v projektu budování sídla evropské kosmické agentury EUSPA
 Hlavní město Praha pokračuje v přípravě transformace budovy původního Centra Nová Palmovka na sídlo Agentury Evropské unie pro kosmický program (EUSPA).
 Praha zasáhne proti neschváleným typům elektrokol i hlučným vozidlům. Pomohou válcový dynamometr a mobilní hlukoměr
 Praha účinněji zasáhne proti neschváleným typům jednostopých elektrických vozidel, která se vydávají za běžná elektrokola či elektrokoloběžky, přestože svými parametry odpovídají spíše mopedům nebo...
-Ulice K Jalovce v Běchovicích projde kompletní rekonstrukcí. Přibude chodník, lávka přes Rokytku i parkovací stání
-Ulice K Jalovce v pražských Běchovicích projde kompletní rekonstrukcí, která výrazně zlepší stav komunikace, bezpečnost pěších i dopravní obslužnost přilehlých nemovitostí.
-Dočasné přerušení tramvajového provozu v úseku Červený Vrch – Dědina
-V sobotu 15. srpna 2026 od 8.30 do 17.00 hodin bude obousměrně přerušen provoz tramvají v úseku Červený Vrch – Dědina v Praze 6. Důvodem je údržba tramvajové trati.
-Letošní sedmý ročník festivalu se uskuteční jako open air akce v Centrálním parku na Pankráci v Praze 4 v sobotu 15. srpna 2026 od 15.00 hodin. Vstup zdarma.
 Změny v provozu autobusů Pražské integrované dopravy
 Od soboty 15. srpna 2026 dochází k trvalým změnám v provozu autobusů. Týkají se linek 110, 145, 152, 206 a 218.
 ICF Canoe Slalom World Ranking Race 2026 — Prague
@@ -58,6 +53,10 @@ I letos ožije v Praze park v Letenských sadech Mezinárodním festivalem nové
 Omezení provozu tramvají v křižovatce Ohrada
 Od soboty 8. srpna do pátku 28. srpna 2026 (přibližně do 24.00 hodin) bude přerušen provoz tramvají v části křižovatky Ohrada. Důvodem je obnova vodovodního řadu.
 Ve dnech 7. – 15. srpna 2026 se v kongresovém sále pražského Hotelu Olympik koná 13. ročník mezinárodního šachového festivalu Open Letní Praha.
+Oslava svátku sv. Kláry v trojské botanické zahradě
+Od 12. do 19. srpna se v Botanické zahradě hlavního města Prahy chystá tradiční akce "Klára má svátek. Hurá na piknik!".
+Letní Grébovka s Divadlem MA
+Open-air festival, který má letos 7. ročník, promění mezi 3. a 28. srpnem novorenesanční Grottu v pražských Havlíčkových sadech v komorní divadelní scénu pod širým nebem.
 Portál Pražana Pražský online úřad, kde vyřešíte, co potřebujete, z klidu domova. Velkoobjemové kontejnery
 Aktuální a důležité informace o bezpečnosti v Praze.
 Protikorupční strategie hl. m. Prahy 2022 - 2027
