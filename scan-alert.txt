@@ -1,2 +1,2 @@
-3 high-signal change(s): barcelona, rome, cape-town
+2 high-signal change(s): porto, rome
 1 dead source(s): prague
