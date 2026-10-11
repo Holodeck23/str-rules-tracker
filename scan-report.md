@@ -1,87 +1,57 @@
-# Scan report — 2026-10-10
+# Scan report — 2026-10-11
 
-**4 changed · 1 unreachable · 1 DEAD · 16 quiet**
+**3 changed · 0 unreachable · 1 DEAD · 18 quiet**
 
-## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
-
-### rome — https://www.comune.roma.it
-**Added:**
-> + Allerta pioggia (GIALLA) dalla tarda mattinata del 9 ottobre 2026 e per le successive 24-30 ore
-> + Allerta pioggia (GIALLA) dalla tarda mattinata del 9 ottobre 2026 e per le successive 24-30 ore
-> + Indice Qualità dell'Aria del 08.10.2026
-> + Affidamento incarico per la redazione del progetto di fattibilità tecnico economica relativo alla riorganizzazione e nuova collocazione dei banchi di vendita del mercato domenicale di Porta Portese
-> + Determinazione Dirigenziale CQ 1832 del 25/09/2026 (D.D. Liquidazione)
-> + Avviso pubblico graduatorie provvisorie spuntisti anno 2026
-> + Con Determinazione Dirigenziale Rep. CM/2241/2026 del 09/10/2026 è stata approvata la graduatoria provvisoria degli aventi titolo all’esercizio della “spunta” nel mercato saltuario del Municipio VIII 
-> + Scadenza per presentare osservazioni e/o controdeduzioni: entro e non oltre il 23 ottobre 2026
-> + Mobilità e trasporti, weekend 10 e 11 ottobre
-> + Eventi e cortei: come cambia la viabilità.
-> + Istituzione Biblioteche di Roma
-> + "Geografie di lettura. Le biblioteche degli autori", incontri dal 15 ottobre
-**Removed:**
-> - Allerta pioggia (ARANCIONE) dal tardo pomeriggio di giovedì 8 ottobre 2026 e per le successive 18-24 ore
-> - Allerta pioggia (ARANCIONE) dal tardo pomeriggio di giovedì 8 ottobre 2026 e per le successive 18-24 ore
-> - Indice Qualità dell'Aria del 07.10.2026
-> - Affidamento incarico per la redazione del progetto di fattibilità tecnico economica relativo alla riorganizzazione e nuova collocazione dei banchi di vendita del mercato domenicale di Porta Portese
-> - Determinazione Dirigenziale CQ 1832 del 25/09/2026 (D.D. Liquidazione)
-> - Albo Municipale delle associazioni, enti del Terzo Settore, artisti/e e professionisti/e per la realizzazione delle attività complementari da svolgersi nelle CSAQ del Municipio Roma X
-> - Riunione del gruppo di lavoro per la valutazione delle istanze.
-> - Istituzione Biblioteche di Roma
-> - Riapre la Biblioteca Galline Bianche nel Municipio XV
-> - Gualtieri. "Non solo luoghi dove leggere e studiare ma anche spazi che rafforzano le comunità".
-> - Mobilità e trasporti, weekend 10 e 11 ottobre
-> - Eventi e cortei: come cambia la viabilità.
-
-### cape-town — https://www.capetown.gov.za
-**Added:**
-> + City marks International African Penguin Awareness Day with growing conce...
-> + This Saturday, 10 October 2026, the City of Cape Town marks International African Penguin...
-> + Planned water supply maintenance from 11 to 16 October
-> + The City’s Water and Sanitation Directorate will conduct planned work in the identified a...
-> + Bingo’s birthday ‘trash’ celebration
-> + The City of Cape Town’s much-loved anti-litter mascot, Bingo, celebrated a third birthday...
-> + Eight Cape Town beaches earn Blue Flag status with four more named pilot ...
-> + Cape Town’s beaches have once again secured international recognition with eight City bea...
-**Removed:**
-> - Blaauwberg Nature Reserve awarded Green Coast Status for the seventh time
-> - Blaauwberg coastline recognised for sustainable environmental management
-> - Take care of your mental health – help is available now
-> - City clinics offer mental health support
-> - Sculpting Nature – where Art and Biodiversity come together
-> - Sculpting Nature programme hosted at Zandvlei Nature Reserve
-> - City takes learners on an educational journey to kick off Transport Month
-> - Athlone learners explore road maintenance and stormwater infrastructure
-
-## ℹ Likely fluff (events, calendars)
+## ⚠ Uncategorized changes — skim these
 
 ### porto — https://www.cm-porto.pt
 **Added:**
-> + Coliseu estreia no Porto ópera de António Pinho Vargas sobre o 25 de Abril
-> + Câmara lança competição que premeia o sucesso escolar dos jovens dos bairros municipais
-> + Escola Profissional de Tecnologia e Eletrónica tem novo centro de formação
-> + Educação, ação social e cultura procuram estratégias de participação da comunidade cigana
-> + Centro de Criação Almada abre caminho a uma rede que quer ser pilar de uma cidade cultural fértil
+> + Conversas Sub 30 CNJ: "Gostava de incentivar o ecossistema de startups a desenvolver-se", assume João Guimarães
+> + Centro de Formação da Associação de Futebol do Porto começa a ganhar forma com dois novos campos de relva natural
 **Removed:**
-> - Começam as obras que vão transformar a Avenida Camilo junto ao Campo 24 de Agosto
-> - Sé do Porto recebe concerto em homenagem à padroeira da cidade
-> - Delegação de Tóquio visita cidade e conhece ação municipal para o urbanismo e espaço público
-> - Rua de Costa Cabral volta a ter animação este sábado
-> - Município vai acolher, em 2027, o projeto "Finanças para Todos - Empresas"
+> - Educação, ação social e cultura procuram estratégias de participação da comunidade cigana
+> - Centro de Criação Almada abre caminho a uma rede que quer ser pilar de uma cidade cultural fértil
+
+## ℹ Likely fluff (events, calendars)
+
+### rome — https://www.comune.roma.it
+**Added:**
+> + Successo per il "Sabato Blu", oltre 1000 partecipanti
+> + Giornata dedicata alla qualità dell'aria e alla riscoperta della città a passo lento.
+> + Al Parco dei Romanisti l'olio destinato alle famiglie fragili
+> + Alfonsi: "Iniziativa che coniuga agricoltura urbana e solidarietà".
+> + il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
+> + Canali di comunicazione: Email - SMS - WhatsApp - App IO
+> + Giunta approva delibera per approvazione toponimo Monte Stallonara
+> + Variante urbanistica al Piano esecutivo di recupero del nucleo di edilizia ex abusiva.
+> + Giornata mondiale della Salute Mentale, chiude il festival Ro.Mens
+> + Funari: "Garantire opportunità di partecipazione e autonomia".
+> + Municipio IX, “La Nuvola” ospita “Cybertech Europe 2026”
+> + Il 13 e 14 ottobre. Divieti sosta e possibili chiusure.
+**Removed:**
+> - Il 10 ottobre torna il "Sabato Blu", quarta edizione
+> - Nella Giornata Nazionale del Camminare, per riscoprire la città a passo lento.
+> - il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
+> - Canali di comunicazione: Email - SMS - WhatsApp - App IO
+> - Attentato alla Sinagoga del 1982, deposta corona di fiori
+> - Il Sindaco ha partecipato alla commemorazione al Tempio Maggiore Ebraico.
+> - Giunta approva delibera per approvazione toponimo Monte Stallonara
+> - Variante urbanistica al Piano esecutivo di recupero del nucleo di edilizia ex abusiva.
+> - Baglioni torna a Roma, sette concerti a Piazza di Siena
+> - "Che notte è questa!" presentato in Campidoglio. Nel 2027 il gran finale ai Fori Imperiali.
+> - Al Parco dei Romanisti l'olio destinato alle famiglie fragili
+> - Alfonsi: "Iniziativa che coniuga agricoltura urbana e solidarietà".
 
 ### florence — https://www.comune.fi.it
 **Added:**
-> + Lun Foreste che ritornano: Mostra immersiva in Palazzo Vecchio
-> + Sab Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> + Dom Mese dell'affido: evento Colori di luce Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Co
 **Removed:**
-> - Ven Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - Sab Mese dell'affido: evento M'Amanga Archivio Storico: Mostra documentale "Dalle carte dell'archivio Enzo Ferroni: l'alluvione e il restauro delle opere d'arte
+> - Sab Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 
 ## 🔴 DEAD SOURCES — 3+ days unreachable, replace the URL
 
-- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (11 days)
-
-## ✗ Unreachable today (watching)
-
-- vancouver: https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/short-term-rental-legislation — `RemoteDisconnected: Remote end closed connection without response` (day 1)
+- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (12 days)
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -113,3 +83,5 @@
 - singapore (no change)
 - sydney (no change)
 - toronto (no change)
+- vancouver (no change)
+- cape-town (no change)
