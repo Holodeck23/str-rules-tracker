@@ -1,2 +1,2 @@
-3 high-signal change(s): rome, austin, cape-town
+1 high-signal change(s): rome
 1 dead source(s): prague
