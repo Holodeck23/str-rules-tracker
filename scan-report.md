@@ -1,92 +1,102 @@
-# Scan report — 2026-10-30
+# Scan report — 2026-10-31
 
-**4 changed · 0 unreachable · 1 DEAD · 17 quiet**
+**5 changed · 1 unreachable · 1 DEAD · 15 quiet**
 
 ## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
 
+### porto — https://www.cm-porto.pt
+**Added:**
+> + Porto celebra 25 anos de Capital Europeia da Cultura com concerto especial no Coliseu
+> + Executivo vota revisão da deliberação sobre operações urbanísticas na Área do Zonamento Inclusivo
+> + Área Metropolitana do Porto pronta para investir mais no setor da habitação com a ajuda do Estado central
+> + Antiga Casa das Máquinas do Funicular dos Guindais transformada em espaço de arte imersiva
+> + Caminhos a Oriente encerra ciclo de caminhadas com "um olhar estrangeiro" sobre o território
+> + 28.ª Reunião, Sessão Extraordinária da Assembleia Municipal do Porto
+> + Paços do Concelho - Sala das Sessões
+**Removed:**
+> - Embaixador da Suíça recebido nos Paços do Concelho
+> - Curso breve convida a revisitar os 30 anos do Centro Histórico do Porto como Património Mundial
+> - Paris veio ao Porto plantar exemplo de uma cidade-jardim
+> - Simplificado o processo de venda de antigas placas toponímicas
+> - Estudantes do Conservatório de Música do Porto vencem concurso Hino Eco-Escolas 2026
+> - Semana Municipal da Igualdade 2026
+
 ### rome — https://www.comune.roma.it
 **Added:**
-> + Qualità dell’aria. Confermate le misure di limitazione al traffico nella ZTL Fascia Verde e regole per gli impianti di riscaldamento.
-> + Qualità dell’aria. Confermate le misure di limitazione al traffico nella ZTL Fascia Verde e regole per gli impianti di riscaldamento.
-> + Indice Qualità dell'Aria del 28.10.2026
-> + Procedura aperta in 3 lotti finalizzata alla conclusione di un Accordo Quadro per la realizzazione di servizi a supporto del Sistema di Accoglienza e Integrazione-SAI: Servizio di Sportello Unico Acco
-> + Seduta pubblica il giorno 9 novembre 2026
-> + Luoghi educativi aggregativi diffusi L.E.A.D.
-> + Affidamento: Lotto B) CIG Padre B8E4AB135D - CIG Derivato BD2BE50675.
-> + FAQ Aggiornate - Manifestazione di Interesse per affidamento in uso della Sala "Livia Di Stefani" e uffici annessi presso il Polo Culturale "Ex Fabbrica Campari" di Montespaccato
-> + Avviso Pubblico per la selezione di soggetti idonei allo svolgimento di attività nel campo delle arti figurative su area pubblica nel territorio di Roma Capitale di cui alla Del. A.C. n. 21/2017
-> + aggiornamento del 30.10.2026
-> + Pubblicata all'Albo Pretorio la nota prot. QD n. 39921 del 29.10.2026 relativa alla convocazione dei soggetti idonei per la scelta della localizzazione il giorno 18.11.2026 alle ore 10.30 a seguito di
-> + Qualità dell'aria, confermate limitazioni al traffico nella Ztl Fascia Verde
+> + Indice Qualità dell'Aria del 29.10.2026
+> + Avviso pubblico concernente la costituzione di un Albo di Rilevatori Statistici esterni al personale di Roma Capitale
+> + Revoca dell'aggiudicazione della concessione dell'immobile di via Ardeatina 1233
+> + Progetto "Durante e Dopo di Noi" - Legge n. 112/2016 (annualità 2026)
+> + Pubblicazione della graduatoria.
+> + "Carta dedicata a te 2026-2027", la graduatoria dei beneficiari
+> + Card operativa dal 4 novembre: mille euro in due ricariche per le famiglie in difficoltà.
+> + Inaugurata nel Municipio XI la prima strada scolastica "mangia-smog"
+> + Parte da via Gaetano Astolfi il progetto innovativo di rigenerazione urbana in chiave ambientale.
+> + Fosso dell'Osa, avanti col recupero del nucleo di via Polense
+> + Definite le condizioni per completare gli insediamenti e realizzare nuove dotazioni pubbliche.
+> + il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
 **Removed:**
-> - Indice Qualità dell'Aria del 27.10.2026
-> - Graduatoria nuove domande 2026 per la realizzazione del Programma "Durante e Dopo di Noi" - dal 31/05/2026 al 14/08/2026
-> - Avviso Pubblico per l'adesione al Polo di Protezione Civile del Municipio Roma VIII
-> - Approvato il bando per l'adesione al Polo di Protezione Civile del Municipio VIII Roma.
-> - LEPS P.I.P.P.I. - Avviso pubblico per la coprogettazione con ETS
-> - Domande di partecipazione entro le ore 12:00 del 3 novembre 2026. Pubblicate le faq
-> - Approvazione Avviso Pubblico acquisizione manifestazioni di interesse Comunità Educante di Pietralata
-> - Determinazione Dirigenziale Repertorio CE/2230 del 27/10/2026 : Approvazione dell'Avviso Pubblico per l'acquisizione di manifestazioni di interesse finalizzate all'individuazione di Enti del Terzo Set
-> - 'Villaggio Difesa' al Circo Massimo, cambia la viabilità
-> - Dal 28 ottobre, per Giornata dell’Unità Nazionale e delle Forze Armate.
+> - Indice Qualità dell'Aria del 28.10.2026
+> - Procedura aperta in 3 lotti finalizzata alla conclusione di un Accordo Quadro per la realizzazione di servizi a supporto del Sistema di Accoglienza e Integrazione-SAI: Servizio di Sportello Unico Acco
+> - Seduta pubblica il giorno 9 novembre 2026
+> - Luoghi educativi aggregativi diffusi L.E.A.D.
+> - Affidamento: Lotto B) CIG Padre B8E4AB135D - CIG Derivato BD2BE50675.
+> - FAQ Aggiornate - Manifestazione di Interesse per affidamento in uso della Sala "Livia Di Stefani" e uffici annessi presso il Polo Culturale "Ex Fabbrica Campari" di Montespaccato
+> - CIE, open day sabato 31 ottobre
+> - Aperti gli ex PIT, via Petroselli e i Municipi XI e XIII.
+> - Lavoro, al via le candidature per "Empowerment delle Donne"
+> - Orientamento, formazione e tirocini per l'autonomia lavorativa.
 > - il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
 > - Canali di comunicazione: Email - SMS - WhatsApp - App IO
 
 ### cape-town — https://www.capetown.gov.za
 **Added:**
-> + Over 700 ECD stakeholders help shape Cape Town's early childhood developm...
-> + ECD conversations focus on strengthening the sector
-> + Catch up on the latest important City news updates with your City in 60 seconds.
-> + City-funded security training supports pathways to employment
-> + MURP Safety Ambassadors graduate with security skills
+> + Traffic officers ramp up enforcement efforts
+> + In the past three months (July – September), Traffic Services recorded more than a millio...
+> + City takes delivery of seven battery-electric buses, another 13 to arrive...
+> + Earlier this week the City of Cape Town’s first batch of seven electric buses arrived fro...
+> + From cricket to choirs, City alive with mix of events to kick off the wee...
+> + Cape Town rounds off October with a busy weekend
+> + City commences with footway and traffic-calming roadworks in the Blaauwbe...
+> + Footway, traffic calming works under way in three suburbs
 **Removed:**
-> - Council meeting livestream
-> - City will oppose SAHRC’s attempt to interdict land release
-> - City opposes SAHRC bid to halt 49 site releases
-> - Celebrating creativity and creating opportunities across industries at FA...
-> - FAME Week puts film, fashion and entertainment first
-> - Cape Town tap water maintains excellent quality rating
-> - Cape Town’s tap water meets excellent drinking standards
+> - Over 700 ECD stakeholders help shape Cape Town's early childhood developm...
+> - ECD conversations focus on strengthening the sector
+> - Catch up on the latest important City news updates with your City in 60 seconds.
+> - City-funded security training supports pathways to employment
+> - MURP Safety Ambassadors graduate with security skills
+> - School Resource Unit aims for top marks
+> - School Resource Unit helps safeguard schools and communities
 
 ## ℹ Likely fluff (events, calendars)
 
-### porto — https://www.cm-porto.pt
+### dublin — https://www.failteireland.ie
 **Added:**
-> + Embaixador da Suíça recebido nos Paços do Concelho
-> + Curso breve convida a revisitar os 30 anos do Centro Histórico do Porto como Património Mundial
-> + Paris veio ao Porto plantar exemplo de uma cidade-jardim
-> + Simplificado o processo de venda de antigas placas toponímicas
-> + Estudantes do Conservatório de Música do Porto vencem concurso Hino Eco-Escolas 2026
+> + How can we help? Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achieve. Start my business Turn your vision into reality. Acc
 **Removed:**
-> - Mobt Porto é o novo "braço operacional" do Município para transformar a estratégia de mobilidade em soluções reais
-> - Japoneses Tō Yō dão concerto no subpalco do Teatro Rivoli
-> - "A mudar a imagem de uma cidade" em debate na Casa da Música
-> - Autarquia apresenta ao ecossistema da cidade projetos estratégicos de inovação e transformação digital
-> - Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência
+> - How can we help? Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achieve. Start my business Turn your vision into reality. Acc
 
 ### florence — https://www.comune.fi.it
 **Added:**
-> + Dal 2 ottobre la quattordicesima edizione che apre venerdì 2 ottobre alle ore 20.45 presso il Teatro del Romito in via del Romito 10 Leggi sul sito tematico a proposito di Mese dell&#039;Affido 2026 S
-> + Contributi destinati ad Associazioni - Anno 2027
-> + Concessione di contributi o benefici economici per la realizzazione di progetti di Area Sociale - Anno 2027.
-> + Scadenza presentazione domande: 30 novembre 2026 Leggi sul sito tematico a proposito di Contributi destinati ad Associazioni - Anno 2027 Notizia 13 Ottobre 2026 Prima del sì, tornano gli incontri laic
-> + Pubblicato il nuovo Bando per il Servizio Civile Digitale - Anno 2026. Scadenza presentazione domande: ore 14 del 6 novembre 2026 Leggi sul sito tematico a proposito di Bando Servizio Civile Digitale 
-> + Lun Convegno "Arno, a 60 anni dall’Alluvione. Da minaccia a risorsa" Presentazione del volume speciale de La Nazione per il 60° anniversario dell'Alluvione Presentazione del libro “Il diluvio degli in
-> + Mar Presentazione del libro “L’alluvione di Firenze. 3-4 novembre 1966”
-> + Mer Basilica di Santa Croce: celebrazione eucaristica commemorativa 60° Alluvione Conferenza Dal fango alla memoria
-> + Ven Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> + Notizia 30 Ottobre 2026 Alluvione di Firenze del 1966: sessant’anni di memoria. Il programma completo delle commemorazioni In occasione del sessantesimo anniversario dell’alluvione del 4 novembre 1966
+> + La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
+> + Mer Basilica di Santa Croce: celebrazione eucaristica commemorativa 60° Alluvione Conferenza Dal fango alla memoria 60° Alluvione: Cerimonia alla presenza del Presidente della Repubblica Sergio Mattar
+> + Sab Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 **Removed:**
-> - Dal 2 ottobre la quattordicesima edizione che apre venerdì 2 ottobre alle ore 20.45 presso il Teatro del Romito in via del Romito 10 Leggi sul sito tematico a proposito di Mese dell&#039;Affido 2026 A
-> - Pubblicato il nuovo Bando per il Servizio Civile Digitale - Anno 2026. Scadenza presentazione domande: ore 14 del 6 novembre 2026 Leggi sul sito tematico a proposito di Bando Servizio Civile Digitale 
-> - Criteri e domande rimborso per le attività economiche colpite dal maltempo di marzo 2025
-> - Criteri di rimborso immediato per le attività economiche e produttive extra-agricole danneggiate dagli eventi meteo del 14 marzo 2025. Scadenza invio documentazione e domande lunedì 2 novembre 2026, o
-> - Gio Accompagnare i minori nel mondo digitale
-> - Lun Convegno "Arno, a 60 anni dall’Alluvione. Da minaccia a risorsa"
-> - Gio Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - Notizia 28 Ottobre 2026 Alluvione di Firenze del 1966: sessant’anni di memoria. Il programma completo delle commemorazioni In occasione del sessantesimo anniversario dell’alluvione del 4 novembre 1966
+> - La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
+> - Dal 2 ottobre la quattordicesima edizione che apre venerdì 2 ottobre alle ore 20.45 presso il Teatro del Romito in via del Romito 10 Leggi sul sito tematico a proposito di Mese dell&#039;Affido 2026 S
+> - Ven Mostra per i 10 anni di Fa.r.m.
+> - Mer Basilica di Santa Croce: celebrazione eucaristica commemorativa 60° Alluvione Conferenza Dal fango alla memoria
+> - Ven Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 
 ## 🔴 DEAD SOURCES — 3+ days unreachable, replace the URL
 
-- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (31 days)
+- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (32 days)
+
+## ✗ Unreachable today (watching)
+
+- vancouver: https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/short-term-rental-legislation — `RemoteDisconnected: Remote end closed connection without response` (day 1)
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -108,7 +118,6 @@
 - barcelona (no change)
 - paris (no change)
 - london (no change)
-- dublin (no change)
 - budapest (no change)
 - new-york (no change)
 - miami (no change)
@@ -118,4 +127,3 @@
 - singapore (no change)
 - sydney (no change)
 - toronto (no change)
-- vancouver (no change)
