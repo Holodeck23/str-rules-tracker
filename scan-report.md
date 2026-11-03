@@ -1,105 +1,119 @@
-# Scan report — 2026-11-02
+# Scan report — 2026-11-03
 
-**6 changed · 0 unreachable · 1 DEAD · 15 quiet**
+**6 changed · 1 unreachable · 1 DEAD · 14 quiet**
 
 ## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
 
-### porto — https://www.cm-porto.pt
-**Added:**
-> + Estratégia de requalificação dos cemitérios com investimento superior a quatro milhões de euros
-> + Município distinguido pela inovação e eficiência nas compras públicas
-> + Em novembro, o Cultura em Expansão viaja pela(s) memória(s) partilhada(s)
-> + Alquimia está de volta para fomentar a socialização entre seniores
-> + Reunião do Conselho Municipal de Segurança – 2026
-**Removed:**
-> - Segredo do "arco-íris" nas penas das aves revelado por cientistas da U.Porto
-> - Porto celebra 25 anos de Capital Europeia da Cultura com concerto especial no Coliseu
-> - Executivo vota revisão da deliberação sobre operações urbanísticas na Área do Zonamento Inclusivo
-> - Área Metropolitana do Porto pronta para investir mais no setor da habitação com a ajuda do Estado central
-
 ### rome — https://www.comune.roma.it
 **Added:**
-> + Allerta vento (GIALLA) dalle prime ore di Lunedì 02 novembre 2026 e per le successive 24-30 ore
-> + Allerta vento (GIALLA) dalle prime ore di Lunedì 02 novembre 2026 e per le successive 24-30 ore
-> + Cosa sapere e cosa fare in caso di forte vento
-> + Affidamento quarto contratto attuativo per lavori di manutenzione, pronto intervento h24, sulla rete di raccolta delle acque piovane e sulle caditoie nel territorio Municipio XI – Ambito Territoriale 
-> + Affidamento quarto contratto attuativo con DD REP CP/1678/2026
-> + Natale in Tredicesimo 2026 – Indagine di mercato acquisizione proposte per l'organizzazione della rassegna
-> + Avviso di Indagine acquisizione proposte per l'organizzazione di Concerti di Natale all'Auditorium Albergotti
-> + Avviso per l'iscrizione all'Assemblea della Consulta municipale permanente per i diritti delle persone con disabilità e delle loro famiglie (CMD IV) del Municipio IV per l'anno 2026
-> + Determinazione Dirigenziale Repertorio CE 2252 del 29/10/2026 : Approvazione Avviso di apertura delle adesioni e relativa modulistica per l'iscrizione all'Assemblea della Consulta municipale permanent
-> + Apertura iscrizioni dal 30/10/26 , chiusura al 28/12/26 .
-> + Roma Capitale a Barcellona per Smart City Expo
-> + Gualtieri presente il 3 novembre con Baglio, Patanè, Corbucci e Melito.
+> + Indice Qualità dell'Aria del 01.11.2026
+> + Manutenzione straordinaria di Piazza dei Visconti - PT20220427
+> + Determinazione Dirigenziale CQ 1880 del 01/10/2026 (D.D. di liquidazione )
+> + Albo Municipale delle Associazioni, Enti del Terzo Settore, Artisti/e e Professionisti/e per la realizzazione delle attività complementari da svolgersi nelle Case Sociali delle Persone Anziane e del Q
+> + Avviso - Ingiunzione a rimuovere o demolire gli interventi di ristrutturazione edilizia abusivamente realizzati in via Tullio Martello n. 2 S1 int. 10
+> + Servizio di Manutenzione degli Elettrodomestici negli Asili Nido e dei Climatizzatori negli edifici Comunali del Municipio XII - biennio 2025 - 2026
+> + Determinazione Dirigenziale CQ 1781 del 21/09/2026 (D.D. Liquidazione - 3° Sal)
+> + Solenne commemorazione dei defunti al Verano con Papa Leone XIV
+> + Il Pontefice accolto dal cardinale Reina e dal sindaco Gualtieri.
+> + Aperte le candidature per l'Albo dei Rilevatori Statistici di Roma Capitale
+> + Tutte le informazioni: scadenza il 12 novembre.
+> + il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
 **Removed:**
-> - Allerta pioggia (GIALLA) dal primo mattino di domenica 01/11/2026 e per le successive 12-18 ore
-> - Allerta pioggia (GIALLA) dal primo mattino di domenica 01/11/2026 e per le successive 12-18 ore
-> - Avviso Pubblico per la selezione di soggetti idonei allo svolgimento di attività nel campo delle arti figurative su area pubblica nel territorio di Roma Capitale di cui alla Del. A.C. n. 21/2017
-> - aggiornamento del 30.10.2026
-> - Pubblicata all'Albo Pretorio la nota prot. QD n. 39921 del 29.10.2026 relativa alla convocazione dei soggetti idonei per la scelta della localizzazione il giorno 18.11.2026 alle ore 10.30 a seguito di
-> - Avviso pubblico concernente la costituzione di un Albo di Rilevatori Statistici esterni al personale di Roma Capitale
-> - Revoca dell'aggiudicazione della concessione dell'immobile di via Ardeatina 1233
-> - Progetto "Durante e Dopo di Noi" - Legge n. 112/2016 (annualità 2026)
-> - Pubblicazione della graduatoria.
-> - Domenica 1° novembre musei e siti archeologici gratuiti
-> - Ampia offerta, tornano anche le visite guidate gratuite a Palazzo Senatorio.
-> - "A fare bene l'organico, a Roma si vince tutti", presentata la campagna di sensibilizzazione
+> - Allerta vento (GIALLA) dalle prime ore di Lunedì 02 novembre 2026 e per le successive 24-30 ore
+> - Allerta vento (GIALLA) dalle prime ore di Lunedì 02 novembre 2026 e per le successive 24-30 ore
+> - Cosa sapere e cosa fare in caso di forte vento
+> - Indice Qualità dell'Aria del 29.10.2026
+> - Affidamento quarto contratto attuativo per lavori di manutenzione, pronto intervento h24, sulla rete di raccolta delle acque piovane e sulle caditoie nel territorio Municipio XI – Ambito Territoriale 
+> - Affidamento quarto contratto attuativo con DD REP CP/1678/2026
+> - Natale in Tredicesimo 2026 – Indagine di mercato acquisizione proposte per l'organizzazione della rassegna
+> - Avviso di Indagine acquisizione proposte per l'organizzazione di Concerti di Natale all'Auditorium Albergotti
+> - Avviso per l'iscrizione all'Assemblea della Consulta municipale permanente per i diritti delle persone con disabilità e delle loro famiglie (CMD IV) del Municipio IV per l'anno 2026
+> - Determinazione Dirigenziale Repertorio CE 2252 del 29/10/2026 : Approvazione Avviso di apertura delle adesioni e relativa modulistica per l'iscrizione all'Assemblea della Consulta municipale permanent
+> - Apertura iscrizioni dal 30/10/26 , chiusura al 28/12/26 .
+> - Allerta vento gialla lunedì 2 novembre
 
 ### cape-town — https://www.capetown.gov.za
 **Added:**
-> + Traffic officers weigh in on weapon confiscations
-> + City enforcement departments make 199 arrests this week
-> + Monday morning commute running smoothly
-> + STATEMENT BY COUNCILLOR ROB QUINTAS, MAYORAL COMMITTEE MEMBER FOR URBAN MOBILITY
-> + Industry Engagement indicates Monday morning commute in order
-> + Statement By Councillor Rob Quintas, Mayoral Committee Member For Urban Mobility.
-> + City of Cape Town wins Best Stand Award at FAME Week Africa 2026
-> + The City’s Events and Film Department has once again been recognised at FAME Week Africa,...
+> + Technical issue affecting City Map Viewer
+> + We are currently experiencing a technical issue affecting the performance of the City Map Viewer and the image services. Our technical team is working diligently to restore full functionality as soon 
+> + Critical electricity maintenance
+> + New water pipes to improve supply in Middle Avenue, Schaapkraal
+> + Schaapkraal water upgrade to improve water pressure
+> + New janitors to help keep toilets clean in informal settlements
+> + 250+ EPWP janitors appointed to maintain toilets
+> + Taxi associations commit to mediation process, commuters assured of norma...
+> + Statement by Councillor Rob Quintas, Mayoral Committee Member for Urban Mobility.
+> + City advises of critical electricity maintenance in Heideveld
+> + Planned electricity supply interruption in Heideveld
 **Removed:**
-> - Attention Langa residents-update on Monday morning commute
-> - Statement By Councillor Rob Quintas, Mayoral Committee Member for Urban Mobility.
-> - Traffic officers ramp up enforcement efforts
-> - In the past three months (July – September), Traffic Services recorded more than a millio...
-> - City takes delivery of seven battery-electric buses, another 13 to arrive...
-> - Earlier this week the City of Cape Town’s first batch of seven electric buses arrived fro...
-> - From cricket to choirs, City alive with mix of events to kick off the wee...
-> - Cape Town rounds off October with a busy weekend
+> - Traffic officers weigh in on weapon confiscations
+> - City enforcement departments make 199 arrests this week
+> - Monday morning commute running smoothly
+> - STATEMENT BY COUNCILLOR ROB QUINTAS, MAYORAL COMMITTEE MEMBER FOR URBAN MOBILITY
+> - Industry Engagement indicates Monday morning commute in order
+> - Statement By Councillor Rob Quintas, Mayoral Committee Member For Urban Mobility.
+> - City of Cape Town wins Best Stand Award at FAME Week Africa 2026
+> - The City’s Events and Film Department has once again been recognised at FAME Week Africa,...
 
 ## ⚠ Uncategorized changes — skim these
 
-### london — https://www.gov.uk
+### barcelona — https://ajuntament.barcelona.cat/turisme/en
 **Added:**
-> + Find out what support is available to help with the cost of living.
+> + The transformation of La Sagrera brings Barcelona into the international “Pioneering Places” programme
+> + The city has joined an international network that promotes more sustainable, inclusive and resilient urban development, with the transformation of La Sagrera serving as a flagship project.
+> + Innovation Flourishes in Barcelona: A Shared Vision for the Future of Cities
+> + At the Smart City Expo World Congress 2026, the Barcelona City Council is presenting a proposal that connects projects, talent and collaboration to address urban challenges. Its stand will feature a b
 **Removed:**
-> - Find out about the changes announced in the Budget.
-
-### tokyo — https://www.mlit.go.jp/kankocho/minpaku/
-**Added:**
-> + 民泊制度運営システムは 2026年11月18日(水) 20:00 ～ 22:00 の間、メンテナンスを行います。                                                                                なお、ログイン停止は行いませんが、 帳票サービスに影響が発生する見込みです。
+> - New intercontinental connections under discussion at Routes World 2026
+> - The Barcelona Air Route Development Committee is exploring new connections and reinforcing existing ones at the 31st edition of Routes World, held in Frankfurt
+> - Commerce and markets, Economic Promotion, Economy
+> - Bonus Consum vouchers are back
+> - The first stage gets under way for the voucher scheme to incentivise purchase in local shops.
 
 ## ℹ Likely fluff (events, calendars)
+
+### porto — https://www.cm-porto.pt
+**Added:**
+> + Especialistas debatem novas regras de urbanismo e contratos públicos
+> + Nano Mini Micro leva música, teatro e imaginação à infância em novembro e dezembro
+> + Ruas em Ramalde com mais segurança e acessibilidade
+> + Retoma Desporto fortalece apoio e abrange 61 clubes e associações da cidade
+> + Instalação de portões na Travessa da Rua Chã reforça a segurança
+**Removed:**
+> - Estratégia de requalificação dos cemitérios com investimento superior a quatro milhões de euros
+> - Município distinguido pela inovação e eficiência nas compras públicas
+> - Em novembro, o Cultura em Expansão viaja pela(s) memória(s) partilhada(s)
+> - Alquimia está de volta para fomentar a socialização entre seniores
+> - Nova rota intercontinental passa a ligar o Porto à Ilha do Sal
+
+### dublin — https://www.failteireland.ie
+**Added:**
+> + How can we help? Key tourism research Build my career Market my business Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achie
+**Removed:**
+> - How can we help? Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achieve. Start my business Turn your vision into reality. Acc
 
 ### florence — https://www.comune.fi.it
 **Added:**
 > + Notizia 30 Ottobre 2026 Alluvione di Firenze del 1966: sessant’anni di memoria. Il programma completo delle commemorazioni In occasione del sessantesimo anniversario dell’alluvione del 4 novembre 1966
-> + La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
-> + Pubblicato il nuovo Bando per il Servizio Civile Digitale - Anno 2026. Scadenza presentazione domande: ore 14 del 6 novembre 2026 Leggi sul sito tematico a proposito di Bando Servizio Civile Digitale 
-> + Carta Dedicata a Te - Anno 2026/2027
-> + E' stata pubblicata la lista dei beneficiari della Carta Leggi sul sito tematico a proposito di Carta Dedicata a Te - Anno 2026/2027 Eventi Novembre 2026
+> + Scadenza presentazione domande: 30 novembre 2026 Leggi sul sito tematico a proposito di Contributi destinati ad Associazioni - Anno 2027 Sociale 30 Settembre 2026
+> + Mar Presentazione del libro “L’alluvione di Firenze. 3-4 novembre 1966” Annullo filatelico speciale per il 60° anniversario
 > + Mer Basilica di Santa Croce: celebrazione eucaristica commemorativa 60° Alluvione Conferenza Dal fango alla memoria 60° Alluvione: Cerimonia alla presenza del Presidente della Repubblica Sergio Mattar
-> + Lun Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> + Mar Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 **Removed:**
 > - Notizia 30 Ottobre 2026 Alluvione di Firenze del 1966: sessant’anni di memoria. Il programma completo delle commemorazioni In occasione del sessantesimo anniversario dell’alluvione del 4 novembre 1966
-> - Domenica metropolitana 1 novembre
-> - Nella giornata del 1° novembre, tutti i residenti della Città Metropolitana di Firenze potranno visitare gratuitamente i Musei Civici Fiorentini Leggi sul sito tematico a proposito di Domenica metropo
-> - La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
-> - Pubblicato il nuovo Bando per il Servizio Civile Digitale - Anno 2026. Scadenza presentazione domande: ore 14 del 6 novembre 2026 Leggi sul sito tematico a proposito di Bando Servizio Civile Digitale 
+> - Scadenza presentazione domande: 30 novembre 2026 Leggi sul sito tematico a proposito di Contributi destinati ad Associazioni - Anno 2027 Notizia 13 Ottobre 2026 Prima del sì, tornano gli incontri laic
+> - Lun Convegno "Arno, a 60 anni dall’Alluvione. Da minaccia a risorsa" Presentazione del volume speciale de La Nazione per il 60° anniversario dell'Alluvione Presentazione del libro “Il diluvio degli in
+> - Mar Presentazione del libro “L’alluvione di Firenze. 3-4 novembre 1966”
 > - Mer Basilica di Santa Croce: celebrazione eucaristica commemorativa 60° Alluvione Conferenza Dal fango alla memoria 60° Alluvione: Cerimonia alla presenza del Presidente della Repubblica Sergio Mattar
-> - Dom Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - Lun Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 
 ## 🔴 DEAD SOURCES — 3+ days unreachable, replace the URL
 
-- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (34 days)
+- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (35 days)
+
+## ✗ Unreachable today (watching)
+
+- berlin: https://www.berlin.de/sen/wohnen/rechtliches/zweckentfremdungsverbot/ — `HTTPError: HTTP Error 429: Too Many Requests` (day 1)
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -116,16 +130,15 @@
 ## Quiet
 
 - vienna (no change)
-- berlin (no change)
 - munich (no change)
-- barcelona (no change)
 - paris (no change)
-- dublin (no change)
+- london (no change)
 - budapest (no change)
 - new-york (no change)
 - miami (no change)
 - miami (alt 2) (no change)
 - austin (no change)
+- tokyo (no change)
 - singapore (no change)
 - sydney (no change)
 - toronto (no change)
