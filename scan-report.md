@@ -1,126 +1,80 @@
-# Scan report — 2026-11-04
+# Scan report — 2026-11-05
 
-**5 changed · 1 unreachable · 1 DEAD · 15 quiet**
+**4 changed · 0 unreachable · 1 DEAD · 17 quiet**
 
 ## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
 
 ### barcelona — https://ajuntament.barcelona.cat/turisme/en
 **Added:**
-> + Barcelona’s busy conference calendar draws large numbers of visitors this November
-> + The conference and trade fair calendar includes 42 confirmed conferences, expected to welcome more than 50,000 delegates in November.
-> + Tourism generates €9.147 billion for Barcelona in the first nine months of 2026
-> + Barcelona welcomed 13.2 million tourists across all types of accommodation in the nine months to September, up 8% on the same period in 2025.
-> + Cooperation and International Relations
-> + Mayors and representatives of major European cities meet in Barcelona to strengthen the urban voice in European Union policies
-> + Barcelona hosted the meeting of the Eurocities Political Executive Committee on 28 and 29 October. The city currently holds the network’s vice-presidency. The meeting coincided with the Eurocities Eco
+> + The Barcelona Restaurant Awards 2026 recognise six establishments for their excellence and commitment to the city
+> + Fishology, Arume, Nectari, Windsor and La Medusa 73 are the winners in the seventh edition of the awards, which also recognised the trajectory of the restaurant Via Veneto with the honorary award.
+> + Barcelona Showcases Innovation Projects to Improve Services and Anticipate Urban Challenges at Smart City Expo
+> + The municipal stand will feature mobility tools, industrialized housing, digital services, urban simulation, and technology for emergency response and green-space management.
 **Removed:**
-> - The Tomorrow. Blue Economy congress returns
-> - The congress addresses the role of oceans as one of the great drivers of sustainable economic development.
-> - Innovation Flourishes in Barcelona: A Shared Vision for the Future of Cities
-> - At the Smart City Expo World Congress 2026, the Barcelona City Council is presenting a proposal that connects projects, talent and collaboration to address urban challenges. Its stand will feature a b
-> - Utopias of Leisure, a podcast for imagining other forms of tourism
-> - The Barcelona Centre for Contemporary Culture (CCCB) has produced Utopias of Leisure, an original four-episode non-fiction podcast created by the journalist Anna Pacheco and the researcher Ernest Caña
+> - Cooperation and International Relations
+> - Mayors and representatives of major European cities meet in Barcelona to strengthen the urban voice in European Union policies
+> - Barcelona hosted the meeting of the Eurocities Political Executive Committee on 28 and 29 October. The city currently holds the network’s vice-presidency. The meeting coincided with the Eurocities Eco
+> - The transformation of La Sagrera brings Barcelona into the international “Pioneering Places” programme
+> - The city has joined an international network that promotes more sustainable, inclusive and resilient urban development, with the transformation of La Sagrera serving as a flagship project.
 
 ### rome — https://www.comune.roma.it
 **Added:**
-> + Indice Qualità dell'Aria del 02.11.2026
-> + Avviso pubblico assegnazione in concessione di posteggi per esercizio del commercio su aree pubbliche nei mercati saltuari
-> + Pubblicazione dell’avviso pubblico e dei relativi allegati per l’assegnazione in concessione di posteggi per l’esercizio del commercio su aree pubbliche nei mercati saltuari Torre Angela (martedì), To
-> + Affidamento per l'annualità 2025 -2026 e 2027 alla Società Risorse per Roma S.p.A., per le attività di apertura e chiusura degli accessi Villa Borghese, Villa Ada, Villa Pamphili, Parco di Centocelle 
-> + Stazioni Radio Base presenti sul territorio del Municipio IX - anno 2026
-> + Avviso Pubblico per la selezione di soggetti idonei allo svolgimento di attività nel campo delle arti figurative su area pubblica nel territorio di Roma Capitale di cui alla Del. A.C. n. 304/2025
-> + Ai sensi dell’art. 7, comma 2, del Regolamento per lo svolgimento di attività nel campo delle Arti Figurative su Area Pubblica nel territorio di Roma Capitale, approvato con Deliberazione dell’Assembl
-> + Aggiornamento del 04.11.2026
-> + Pubblicata all'Albo Pretorio la Determinazione Dirigenziale QD rep. 2704 del 03.11.2026 avente ad oggetto l' Approvazione della scelta delle Postazioni da parte dei soggetti idonei allo svolgimento di
-> + Elenco nominativo delle postazioni scelte  PDF/A
-> + Definizione agevolata tributi, termini di apertura delle istanze
-> + Pagamento della sola sorte del debito, senza sanzioni e senza interessi, dal 1° dicembre 2026 al 1° febbraio 2027.
+> + Indice Qualità dell'Aria del 04.11.2026
+> + Centro diurno per persone con disabilità 2027/2028 - avvio della procedura negoziata
+> + Avviso di Indagine acquisizione proposte per l'organizzazione di Concerti di Natale all'Auditorium Albergotti
+> + Avviso Pubblico Albo Municipale degli Organismi per lo svolgimento di attività integrative nelle Scuole dell'Infanzia e nei Nidi del Municipio Roma IV
+> + Determinazione Dirigenziale Repertorio CE/2282/2026 del 02/11/2026 : Approvazione dell’Avviso Pubblico avente ad oggetto l’istituzione del nuovo Albo Municipale degli Organismi per lo svolgimento di A
+> + La presentazione delle domande di iscrizione al costituendo Albo potrà avvenire a decorrere dal 10 novembre 2026 ed entro le ore 12:00 del 25 novembre 2026 .
+> + Convocazione della 2 seduta della Commissione per la valutazione delle domande afferente l'Avviso Pubblico per l'assegnazione in concessione d'uso dell'immobile confiscato di proprietà di Roma Capital
+> + Legalità, presentati i progetti vincitori del bando da 1,75 milioni di euro
+> + 24 iniziative per rafforzare la cultura della legalità e sostenere le persone in condizioni di maggiore fragilità.
+> + Istituzione Biblioteche di Roma
+> + Municipio VI, riapre la Biblioteca Collina della Pace
+> + Da bene confiscato a luogo di cultura grazie ai fondi del PNRR.
 **Removed:**
-> - Indice Qualità dell'Aria del 01.11.2026
-> - Manutenzione straordinaria di Piazza dei Visconti - PT20220427
-> - Determinazione Dirigenziale CQ 1880 del 01/10/2026 (D.D. di liquidazione )
-> - Albo Municipale delle Associazioni, Enti del Terzo Settore, Artisti/e e Professionisti/e per la realizzazione delle attività complementari da svolgersi nelle Case Sociali delle Persone Anziane e del Q
-> - Avviso - Ingiunzione a rimuovere o demolire gli interventi di ristrutturazione edilizia abusivamente realizzati in via Tullio Martello n. 2 S1 int. 10
-> - Servizio di Manutenzione degli Elettrodomestici negli Asili Nido e dei Climatizzatori negli edifici Comunali del Municipio XII - biennio 2025 - 2026
-> - Determinazione Dirigenziale CQ 1781 del 21/09/2026 (D.D. Liquidazione - 3° Sal)
-> - Solenne commemorazione dei defunti al Verano con Papa Leone XIV
-> - Il Pontefice accolto dal cardinale Reina e dal sindaco Gualtieri.
-> - Aperte le candidature per l'Albo dei Rilevatori Statistici di Roma Capitale
-> - Tutte le informazioni: scadenza il 12 novembre.
-> - il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
+> - Qualità dell’aria. Confermate le misure di limitazione al traffico nella ZTL Fascia Verde e regole per gli impianti di riscaldamento.
+> - Qualità dell’aria. Confermate le misure di limitazione al traffico nella ZTL Fascia Verde e regole per gli impianti di riscaldamento.
+> - Indice Qualità dell'Aria del 02.11.2026
+> - Avviso pubblico assegnazione in concessione di posteggi per esercizio del commercio su aree pubbliche nei mercati saltuari
+> - Pubblicazione dell’avviso pubblico e dei relativi allegati per l’assegnazione in concessione di posteggi per l’esercizio del commercio su aree pubbliche nei mercati saltuari Torre Angela (martedì), To
+> - Affidamento per l'annualità 2025 -2026 e 2027 alla Società Risorse per Roma S.p.A., per le attività di apertura e chiusura degli accessi Villa Borghese, Villa Ada, Villa Pamphili, Parco di Centocelle 
+> - Stazioni Radio Base presenti sul territorio del Municipio IX - anno 2026
+> - Avviso Pubblico per la selezione di soggetti idonei allo svolgimento di attività nel campo delle arti figurative su area pubblica nel territorio di Roma Capitale di cui alla Del. A.C. n. 304/2025
+> - Ai sensi dell’art. 7, comma 2, del Regolamento per lo svolgimento di attività nel campo delle Arti Figurative su Area Pubblica nel territorio di Roma Capitale, approvato con Deliberazione dell’Assembl
+> - Aggiornamento del 04.11.2026
+> - Pubblicata all'Albo Pretorio la Determinazione Dirigenziale QD rep. 2704 del 03.11.2026 avente ad oggetto l' Approvazione della scelta delle Postazioni da parte dei soggetti idonei allo svolgimento di
+> - Elenco nominativo delle postazioni scelte  PDF/A
 
-### cape-town — https://www.capetown.gov.za
-**Added:**
-> + Cape Town welcomes young leaders for One Young World Summit
-> + One Young World Summit 2026 comes to Cape Town
-> + City advises of critical electricity maintenance in Bridgetown
-> + Planned electricity supply disruption in Bridgetown
-> + City advises of critical electricity maintenance in Langa
-> + Planned electricity supply interruption in Langa
-> + Ottery gets 1,2km of new water pipes
-> + R4m pipe replacement project under way in Ottery
-**Removed:**
-> - Technical issue affecting City Map Viewer
-> - We are currently experiencing a technical issue affecting the performance of the City Map Viewer and the image services. Our technical team is working diligently to restore full functionality as soon 
-> - New water pipes to improve supply in Middle Avenue, Schaapkraal
-> - Schaapkraal water upgrade to improve water pressure
-> - New janitors to help keep toilets clean in informal settlements
-> - 250+ EPWP janitors appointed to maintain toilets
-> - Taxi associations commit to mediation process, commuters assured of norma...
-> - Statement by Councillor Rob Quintas, Mayoral Committee Member for Urban Mobility.
-> - City advises of critical electricity maintenance in Heideveld
-> - Planned electricity supply interruption in Heideveld
-
-## ℹ Likely fluff (events, calendars)
+## ⚠ Uncategorized changes — skim these
 
 ### porto — https://www.cm-porto.pt
 **Added:**
-> + Conselho Municipal de Saúde do Porto
-> + Conselho Municipal de Saúde do Porto
-> + Conselho Municipal de Saúde do Porto
-> + Conselho Municipal de Desporto do Porto
-> + Conselho Municipal de Desporto do Porto
-> + Conselho Municipal de Desporto do Porto
-> + Instituto de investigação portuense distinguido pela Comissão Europeia
-> + Isabél Zuaa apresenta as suas diferentes versões de vida no Teatro Rivoli
-> + Revisão ao projeto para a Rua de Guerra Junqueiro aumenta espaço para os peões
-> + Galeria Municipal do Porto inaugura três novas exposições
-> + Fonoteca Municipal com homenagens, ópera e uma convidada especial em novembro
+> + Maratona do Porto reúne atletas de 104 nacionalidades e une três concelhos
+> + Município e Metro estudam soluções para criar corredor do Campo Alegre e ligação da Casa da Música à Asprela
+> + Novo acordo reforça papel da Câmara do Porto na gestão operacional da VCI
+> + Campanha "Dê sangue, salve vidas" juntou dezenas de pessoas por uma causa solidária
+> + Município e Infraestruturas de Portugal assinam protocolos em prol de um Porto "mais acessível e mais conectado"
 **Removed:**
-> - Especialistas debatem novas regras de urbanismo e contratos públicos
-> - Nano Mini Micro leva música, teatro e imaginação à infância em novembro e dezembro
-> - Ruas em Ramalde com mais segurança e acessibilidade
-> - Retoma Desporto fortalece apoio e abrange 61 clubes e associações da cidade
-> - Instalação de portões na Travessa da Rua Chã reforça a segurança
-> - Reunião Privada de Executivo
+> - Instituto de investigação portuense distinguido pela Comissão Europeia
+> - Isabél Zuaa apresenta as suas diferentes versões de vida no Teatro Rivoli
+> - Revisão ao projeto para a Rua de Guerra Junqueiro aumenta espaço para os peões
+> - Galeria Municipal do Porto inaugura três novas exposições
+> - Fonoteca Municipal com homenagens, ópera e uma convidada especial em novembro
+
+## ℹ Likely fluff (events, calendars)
 
 ### florence — https://www.comune.fi.it
 **Added:**
-> + Notizia 30 Ottobre 2026 Alluvione di Firenze del 1966: sessant’anni di memoria. Il programma completo delle commemorazioni In occasione del sessantesimo anniversario dell’alluvione del 4 novembre 1966
-> + La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
-> + Carta Dedicata a Te - Anno 2026/2027
-> + E' stata pubblicata la lista dei beneficiari della Carta Leggi sul sito tematico a proposito di Carta Dedicata a Te - Anno 2026/2027 Notizia 20 Ottobre 2026 Aggiornamento del Quadro Conoscitivo del Pi
-> + Scadenza presentazione domande: 30 novembre 2026 Leggi sul sito tematico a proposito di Contributi destinati ad Associazioni - Anno 2027 Eventi Novembre 2026
-> + Mer Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> + Notizia 2 Novembre 2026 Linea 3 Tramvia, Libertà - Bagno a Ripoli Fino al 27 novembre, sulla direttrice viale Giannotti-viale Europa, chiusure notturne nei giorni giovedì, venerdì e martedì (orario 21
+> + Gio Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 **Removed:**
 > - Notizia 30 Ottobre 2026 Alluvione di Firenze del 1966: sessant’anni di memoria. Il programma completo delle commemorazioni In occasione del sessantesimo anniversario dell’alluvione del 4 novembre 1966
-> - Online i video che raccontano le azioni quotidiane di manutenzione e cura del verde cittadino Leggi sul sito tematico a proposito di Diario del verde Ambiente 27 Ottobre 2026
-> - La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
-> - Scadenza presentazione domande: 30 novembre 2026 Leggi sul sito tematico a proposito di Contributi destinati ad Associazioni - Anno 2027 Sociale 30 Settembre 2026
-> - Bando Servizio Civile Digitale
-> - Pubblicato il nuovo Bando per il Servizio Civile Digitale - Anno 2026. Scadenza presentazione domande: ore 14 del 6 novembre 2026 Leggi sul sito tematico a proposito di Bando Servizio Civile Digitale 
-> - Carta Dedicata a Te - Anno 2026/2027
-> - E' stata pubblicata la lista dei beneficiari della Carta Leggi sul sito tematico a proposito di Carta Dedicata a Te - Anno 2026/2027 Eventi Novembre 2026
-> - Mar Presentazione del libro “L’alluvione di Firenze. 3-4 novembre 1966” Annullo filatelico speciale per il 60° anniversario
-> - Mar Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - Mer Basilica di Santa Croce: celebrazione eucaristica commemorativa 60° Alluvione Conferenza Dal fango alla memoria 60° Alluvione: Cerimonia alla presenza del Presidente della Repubblica Sergio Mattar
+> - Mer Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 
 ## 🔴 DEAD SOURCES — 3+ days unreachable, replace the URL
 
-- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (36 days)
-
-## ✗ Unreachable today (watching)
-
-- vancouver: https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/short-term-rental-legislation — `RemoteDisconnected: Remote end closed connection without response` (day 1)
+- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (37 days)
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -151,3 +105,5 @@
 - singapore (no change)
 - sydney (no change)
 - toronto (no change)
+- vancouver (no change)
+- cape-town (no change)
