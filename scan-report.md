@@ -1,103 +1,85 @@
-# Scan report — 2026-11-11
+# Scan report — 2026-11-12
 
-**6 changed · 1 unreachable · 1 DEAD · 14 quiet**
+**5 changed · 0 unreachable · 1 DEAD · 16 quiet**
 
 ## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
 
 ### rome — https://www.comune.roma.it
 **Added:**
-> + Stazioni Radio Base presenti sul territorio del Municipio XIII
-> + Colonie feline, indagine di mercato per la fornitura di alimenti per gatti
-> + Tratta e grave sfruttamento, gara per i servizi di accoglienza e protezione delle vittime
-> + Offerte entro le ore 12:00 del 10 dicembre 2026
-> + Convocazione prima seduta di Commissione per la valutazione delle istanze e la formazione della graduatoria afferente all'Approvazione dell?Avviso per l'assegnazione in concessione d'uso di immobili d
-> + Tor Bella Monaca, inaugurata la corte centrale dell'R5
-> + Case riqualificate e nuovi spazi per il quartiere.
-> + Mappa della città educante, tutti i progetti e come raggiungerli
-> + Dal 13 novembre le scuole possono attivare il servizio gratuito di trasporto.
-> + Monetine Fontana di Trevi destinate ai più fragili, rinnovato il protocollo con il Vicariato
-> + Le risorse raccolte vengono impiegate per contrastare la povertà alimentare.
-> + il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
+> + Allerta vento (GIALLA) dal primo mattino di giovedì 12 novembre 2026 e per le successive 24-36 ore / Allerta pioggia (GIALLA) dalla tarda mattinata di giovedì 12 novembre 2026 e per le successive 24-3
+> + Allerta vento (GIALLA) dal primo mattino di giovedì 12 novembre 2026 e per le successive 24-36 ore / Allerta pioggia (GIALLA) dalla tarda mattinata di giovedì 12 novembre 2026 e per le successive 24-3
+> + Indice Qualità dell'Aria del 10.11.2026
+> + Giubileo 2025 – intervento n. 77 (ex n. 11) - Manutenzione straordinaria della viabilità Municipio Roma XII
+> + Determinazione Dirigenziale CQ 2070 del 26/10/2026 (D.D. Incentivi per Funzioni Tecniche)
+> + Graduatoria relativa alle domande ammesse agli interventi della Legge 22 giugno 2016, n. 112 “Dopo di Noi” pervenute nel periodo compreso tra il 01/06/2026 e il 14/08/2026
+> + Manifestazione di interesse per l'affidamento ai sensi dell'art. 50, comma 1, lett. b) del D. Lgs. 36/2023 e ss.mm.ii., del Progetto “Thanks Caregiver”
+> + D.D. 2311 del 10.11.2026 - Indagine di mercato finalizzata all'individuazione di Organismi qualificati per la realizzazione del progetto "Sostegno Psicologico"
+> + Tor Sapienza, partita la demolizione dell'edificio abbandonato
+> + Prende forma la trasformazione dell’area di via Cesare Tallone.
+> + Allerta vento gialla giovedì 12 novembre
+> + I consigli di Protezione Civile alla cittadinanza.
 **Removed:**
-> - Allerta pioggia (GIALLA) dal primo mattino di martedì 10/11/2026 e per le successive 9-12 ore
-> - Allerta pioggia (GIALLA) dal primo mattino di martedì 10/11/2026 e per le successive 9-12 ore
-> - Avviso pubblico per l'assegnazione in concessione per un periodo di anni 10 dei posteggi all'interno del mercato coperto sito in Via Pollio - Rettifica
-> - Determinazione Dirigenziale Repertorio CE/2356/2026 del 09/11/2026 : Rettifica per mero errore materiale dell'Avviso Pubblico, indetto con Determinazione Dirigenziale Rep. CE/2200/2026 - Prot. n. CE/1
-> - Pubblicato il 10/11/2026 sul Bollettino Ufficiale Regionale Lazio  n. 90 Ordinario
-> - Lavori di rifacimento scala mobile Mercato Insieme Viale della Primavera nr. 4. Approvazione verbale di gara, affidamento diretto, aggiudicazione definitiva, rimodulazione del Q.E., autorizzazione all
-> - Accordo quadro per manutenzione, pronto intervento h24 sorveglianza sulle sedi e manufatti stradali, raccolta delle acque piovane e caditoie comunali, sul territorio del Municipio Roma XII - durata 24
-> - Determinazione Dirigenziale CQ 2055 del 23/10/2026 (D.D.Conto finale)
-> - Affidamento in uso temporaneo degli spazi sportivi scolastici di competenza del Municipio Roma X, per l'istituzione dei Centri Sportivi Municipali nel quadriennio 2026 – 2030
-> - Rettifica ed aggiornamento della Graduatoria Definitiva relativa all’Avviso Pubblico.
-> - Domenica ecologica, eventi in Piazza Risorgimento e via Ottaviano
-> - Il 15 novembre primo stop al traffico della stagione in fascia verde.
-
-### austin — https://www.austintexas.gov/department/short-term-rentals
-**Added:**
-> + Important Notice We are launching a new system on Dec. 4 that will make it easier to manage your short-term rental license(s), renewals, and payments.     From Nov. 16 through Dec. 3, we will pause al
-**Removed:**
-> - Important Notice We are launching a new system on Dec. 4. It will make it easier for you to manage your short-term rental licenses, renewals, and payments. From Nov. 16 through Dec. 3, we will pause a
+> - Indice Qualità dell'Aria del 09.11.2026
+> - Stazioni Radio Base presenti sul territorio del Municipio XIII
+> - Colonie feline, indagine di mercato per la fornitura di alimenti per gatti
+> - Tratta e grave sfruttamento, gara per i servizi di accoglienza e protezione delle vittime
+> - Offerte entro le ore 12:00 del 10 dicembre 2026
+> - Convocazione prima seduta di Commissione per la valutazione delle istanze e la formazione della graduatoria afferente all'Approvazione dell?Avviso per l'assegnazione in concessione d'uso di immobili d
+> - Mappa della città educante, tutti i progetti e come raggiungerli
+> - Dal 13 novembre le scuole possono attivare il servizio gratuito di trasporto.
+> - Monetine Fontana di Trevi destinate ai più fragili, rinnovato il protocollo con il Vicariato
+> - Le risorse raccolte vengono impiegate per contrastare la povertà alimentare.
+> - il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
+> - Canali di comunicazione: Email - SMS - WhatsApp - App IO
 
 ### cape-town — https://www.capetown.gov.za
 **Added:**
-> + More summer fun loading with less water
-> + Make every drop count this hot, dry summer season
+> + Testing… testing, Cape Town is ready to light up the festive season
+> + Festive Lights Switch-On countdown begins
+> + Somerset Mall shows how water savings can make a big difference
+> + Somerset Mall cuts water bill by 30% with water-wise use
+> + Rescheduled: City advises of critical electricity maintenance in Heidevel...
+> + Planned Heideveld power interruption rescheduled
 **Removed:**
-> - City commences with road resurfacing in Blaauwberg, Bothasig, Panorama, B...
-> - Night road resurfacing planned across five suburbs
+> - City reminds political parties to remove election posters and swivel bann...
+> - Election posters must be removed by 18 November
+> - Multi-million rand Sir Lowry’s Pass River Upgrade on track
+> - Major river upgrade remains on track for 2027
+> - City agencies arrest 349 suspects
+> - Weekly patrols and operations result in 349 arrests
 
 ## ⚠ Uncategorized changes — skim these
 
-### barcelona — https://ajuntament.barcelona.cat/turisme/en
-**Added:**
-> + CETT Tourism Policy Dialogue 2026
-> + Where: Alimara Barcelona Hotel - HB-004010
-**Removed:**
-> - When: Del 17/11/2026 al 19/11/2026
-> - Where: Fira Barcelona - Recinte Gran Via
-
 ### porto — https://www.cm-porto.pt
 **Added:**
-> + Município junta-se a debate sobre o impacto das beatas no espaço público
-> + Tânia Dinis propõe audição coletiva sobre relação entre a mulher e o trabalho
-> + Equipamentos encerrados e serviços essenciais assegurados à chegada da depressão Charles
-> + Dezasseis novos fogos no Bairro da Maceda reforçam oferta de habitação apoiada em Campanhã
-> + Idio Chichava regressa ao Porto com novo espetáculo em estreia nacional
-> + 28.ª Reunião, Sessão Extraordinária da Assembleia Municipal do Porto
-> + Paços do Concelho - Sala das Sessões
-> + Reunião do Conselho Municipal de Juventude - 2026
+> + Município acolhe Feira de Carreira para impulsionar a empregabilidade e a requalificação profissional
+> + Rede 30 expande-se da Praça dos Poveiros à Rua de Miraflor
+> + 19.ª edição do Speed Recruitment adiada para 25 de novembro
+> + Missão Férias Natal conta com 96 vagas e inscrições abrem a partir de 24 de novembro
+> + Município do Porto com respostas sociais prontas para passagem da depressão Charles
 **Removed:**
-> - Cidade integra rede europeia para reforçar participação cidadã na ação climática
-> - Porto mostra no maior palco mundial de smart cities como testar, escalar e governar inovação urbana
-> - Próximas inaugurações simultâneas em Bombarda com leitura em destaque
-> - Política digital em destaque na celebração dos 40 anos da adesão de Portugal à União Europeia no Porto
-> - Gala anual destaca o papel das assembleias municipais como garante do bom funcionamento do sistema democrático
+> - Município junta-se a debate sobre o impacto das beatas no espaço público
+> - Tânia Dinis propõe audição coletiva sobre relação entre a mulher e o trabalho
+> - Equipamentos encerrados e serviços essenciais assegurados à chegada da depressão Charles
+> - Dezasseis novos fogos no Bairro da Maceda reforçam oferta de habitação apoiada em Campanhã
+> - Idio Chichava regressa ao Porto com novo espetáculo em estreia nacional
+
+### tokyo — https://www.mlit.go.jp/kankocho/minpaku/
+**Added:**
+> + 民泊制度運営システムは緊急メンテナンスのため、 2026年11月19日(木)21:00 ～ 11月20日(金)4:00 の間、                                                                 ユーザーのログインを停止いたします。
 
 ## ℹ Likely fluff (events, calendars)
 
 ### florence — https://www.comune.fi.it
 **Added:**
-> + Notizia 5 Novembre 2026 Giocattolo Sospeso 2026 Un giocattolo da regalare ai bambini di famiglie fragili e in difficoltà economica. Le modalità per aderire all'iniziativa Vai alla pagina a proposito d
-> + Le Scuole si presentano 2026
-> + Torna la manifestazione di orientamento alla scelta della scuola secondaria di secondo grado. Sabato 14 e domenica 15 novembre presso la palestra di viale Malta, 10 Leggi sul sito tematico a proposito
-> + E' stata pubblicata la lista dei beneficiari della Carta Leggi sul sito tematico a proposito di Carta Dedicata a Te - Anno 2026/2027 Ambiente 27 Ottobre 2026
-> + La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
-> + Mer Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> + Informazioni dalla Sala Operativa Comunale Bollettino del 11/11/2026 - Allerta Meteo Codice Giallo per Rischio TEMPORALI dalle ore 09:00 del 12/11/2026 fino alle ore 23:59 del 12/11/2026
+> + Gio Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 **Removed:**
-> - Notizia 5 Novembre 2026 Giocattolo Sospeso 2026 Un giocattolo da regalare ai bambini di famiglie fragili e in difficoltà economica. Le modalità per aderire all'iniziativa Vai alla pagina a proposito d
-> - E' stata pubblicata la lista dei beneficiari della Carta Leggi sul sito tematico a proposito di Carta Dedicata a Te - Anno 2026/2027 Notizia 9 Novembre 2026 Sospensione ricevimento telefonico in data 
-> - La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
-> - Le Scuole si presentano 2026
-> - Torna la manifestazione di orientamento alla scelta della scuola secondaria di secondo grado. Sabato 14 e domenica 15 novembre presso la palestra di viale Malta, 10 Leggi sul sito tematico a proposito
-> - Mar Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - Mer Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 
 ## 🔴 DEAD SOURCES — 3+ days unreachable, replace the URL
 
-- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (43 days)
-
-## ✗ Unreachable today (watching)
-
-- vancouver: https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/short-term-rental-legislation — `RemoteDisconnected: Remote end closed connection without response` (day 1)
+- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (44 days)
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -116,6 +98,7 @@
 - vienna (no change)
 - berlin (no change)
 - munich (no change)
+- barcelona (no change)
 - paris (no change)
 - london (no change)
 - dublin (no change)
@@ -123,7 +106,8 @@
 - new-york (no change)
 - miami (no change)
 - miami (alt 2) (no change)
-- tokyo (no change)
+- austin (no change)
 - singapore (no change)
 - sydney (no change)
 - toronto (no change)
+- vancouver (no change)
