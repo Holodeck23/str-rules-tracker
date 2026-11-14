@@ -1,104 +1,92 @@
-# Scan report — 2026-11-13
+# Scan report — 2026-11-14
 
-**6 changed · 0 unreachable · 1 DEAD · 15 quiet**
+**4 changed · 1 unreachable · 1 DEAD · 16 quiet**
 
 ## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
 
-### rome — https://www.comune.roma.it
+### porto — https://www.cm-porto.pt
 **Added:**
-> + Allerta tecnica - 13 Novembre 2026: posta elettronica
-> + Allerta tecnica - 13 Novembre 2026: posta elettronica
-> + Si comunica che, a causa di un funzionamento irregolare generalizzato che coinvolge i servizi Microsoft a livello globale, nel corso della giornata potrebbero verificarsi delle interruzioni momentanee
-> + Allerta vento (GIALLA) e Allerta per criticità idrogeologica (ARANCIONE) dal primo pomeriggio di giovedì 12 novembre 2026 e per le successive 24-30 ore
-> + Qualità dell'aria. 15 novembre 2026 prima domenica ecologica. Nell'Ordinanza del Sindaco n. 150/2026 tutti i dettagli
-> + Allerta vento (GIALLA) e Allerta per criticità idrogeologica (ARANCIONE) dal primo pomeriggio di giovedì 12 novembre 2026 e per le successive 24-30 ore
-> + Qualità dell'aria. 15 novembre 2026 prima domenica ecologica. Nell'Ordinanza del Sindaco n. 150/2026 tutti i dettagli
-> + Indice Qualità dell'Aria del 11.11.2026
-> + Procedura Negoziata: Affidamento del servizio BenEssere in crescita
-> + Assegnazione spazi pubblicitari su aree private o di proprietà non comunale da utilizzare con mezzi privati. Anno 2026. Integrazione avviso pubblico – fissazione termine per presentazione istanze
-> + Il termine per la presentazione delle istanze è fissato al 30 novembre 2026
-> + Graduatoria definitiva Avviso Pubblico per l'assegnazione in concessione, per un periodo di anni 10, dei posteggi disponibili per l'esercizio del commercio su area pubblica all'interno dei mercati pla
+> + Mais de 700 atletas inscritos na Bonfim Running Porto 2026
+> + Município distingue fotografia que celebra a força da união de quem serve a cidade
+> + Marina Herlop apresenta novo disco no Teatro Campo Alegre
+> + Segurança e acessibilidade definem caminho de valorização da zona oriental da cidade
+> + Pedro Duarte elogia brio dos trabalhadores da Porto Ambiente
 **Removed:**
-> - Allerta vento (GIALLA) dal primo mattino di giovedì 12 novembre 2026 e per le successive 24-36 ore / Allerta pioggia (GIALLA) dalla tarda mattinata di giovedì 12 novembre 2026 e per le successive 24-3
-> - Allerta vento (GIALLA) dal primo mattino di giovedì 12 novembre 2026 e per le successive 24-36 ore / Allerta pioggia (GIALLA) dalla tarda mattinata di giovedì 12 novembre 2026 e per le successive 24-3
-> - Indice Qualità dell'Aria del 10.11.2026
-> - Giubileo 2025 – intervento n. 77 (ex n. 11) - Manutenzione straordinaria della viabilità Municipio Roma XII
-> - Determinazione Dirigenziale CQ 2070 del 26/10/2026 (D.D. Incentivi per Funzioni Tecniche)
-> - Graduatoria relativa alle domande ammesse agli interventi della Legge 22 giugno 2016, n. 112 “Dopo di Noi” pervenute nel periodo compreso tra il 01/06/2026 e il 14/08/2026
-> - Manifestazione di interesse per l'affidamento ai sensi dell'art. 50, comma 1, lett. b) del D. Lgs. 36/2023 e ss.mm.ii., del Progetto “Thanks Caregiver”
-> - D.D. 2311 del 10.11.2026 - Indagine di mercato finalizzata all'individuazione di Organismi qualificati per la realizzazione del progetto "Sostegno Psicologico"
-> - Allerta vento gialla giovedì 12 novembre
-> - I consigli di Protezione Civile alla cittadinanza.
-> - Servizi educativi 0-6, confermata la regolare apertura
-> - Giovedì 12 novembre attività secondo orari e modalità consueti.
+> - Cidade marcou presença na feira europeia da economia verde e circular em Itália
+> - Rui Torrinha assume direção artística do Teatro Municipal do Porto
+> - Castanhas, música e espírito de comunidade aconchegam São Martinho molhado
+> - Aberto processo de contratação de renaturalização da Praia Internacional e de demolição do Edifício Transparente
+> - Museu do Carro Eléctrico convida as famílias a descobrir o poder das cores
 
 ### cape-town — https://www.capetown.gov.za
 **Added:**
-> + Global Microsoft Outage: 13 Nov 2026
-> + Various online services are affected by the global Microsoft outage . We apologise for the inconvenience and will continue to monitor the situation.
-> + Residents to comment on a one-way system in Goodwood
-> + The City of Cape Town’s Urban Mobility Directorate invites residents, parents, and road u...
+> + Planned water supply maintenance from 14 to 20 November 2026
+> + Water supply disruptions expected during maintenance
+> + Muizenberg beachfront project entering final stage
+> + Beachfront upgrade on track for December completion
+> + Catch up on the latest important City news updates with your City in 60 seconds.
 **Removed:**
-> - More summer fun loading with less water
-> - Make every drop count this hot, dry summer season
-
-## ⚠ Uncategorized changes — skim these
-
-### porto — https://www.cm-porto.pt
-**Added:**
-> + Cidade marcou presença na feira europeia da economia verde e circular em Itália
-> + Rui Torrinha assume direção artística do Teatro Municipal do Porto
-> + Castanhas, música e espírito de comunidade aconchegam São Martinho molhado
-> + Aberto processo de contratação de renaturalização da Praia Internacional e de demolição do Edifício Transparente
-> + Museu do Carro Eléctrico convida as famílias a descobrir o poder das cores
-> + Reunião do Conselho Municipal de Segurança – 2026
-**Removed:**
-> - Município acolhe Feira de Carreira para impulsionar a empregabilidade e a requalificação profissional
-> - Rede 30 expande-se da Praça dos Poveiros à Rua de Miraflor
-> - 19.ª edição do Speed Recruitment adiada para 25 de novembro
-> - Missão Férias Natal conta com 96 vagas e inscrições abrem a partir de 24 de novembro
-> - Município do Porto com respostas sociais prontas para passagem da depressão Charles
-> - Reunião do Conselho Municipal de Segurança – 2026
+> - Global Microsoft Outage: 13 Nov 2026
+> - Various online services are affected by the global Microsoft outage . We apologise for the inconvenience and will continue to monitor the situation.
+> - Testing… testing, Cape Town is ready to light up the festive season
+> - Festive Lights Switch-On countdown begins
+> - Somerset Mall shows how water savings can make a big difference
+> - Somerset Mall cuts water bill by 30% with water-wise use
+> - Rescheduled: City advises of critical electricity maintenance in Heidevel...
+> - Planned Heideveld power interruption rescheduled
 
 ## ℹ Likely fluff (events, calendars)
 
-### barcelona — https://ajuntament.barcelona.cat/turisme/en
+### rome — https://www.comune.roma.it
 **Added:**
-> + Europe launches a new strategy to strengthen more sustainable and resilient tourism
-> + The new European Sustainable Tourism Strategy anticipates a significant increase in international tourist flows between now and 2030 and incorporates specific tools to manage the pressure on destinati
-> + Port de Barcelona moves forward in reorganising the cruise terminals at the Moll Adossat wharf
-> + On 28 October, the Port managing board approved the demolition of terminals A, B and C at the Moll Adossat wharf and the construction of a new public terminal, with an investment of 104.5 million euro
+> + Indice Qualità dell'Aria del 12.11.2026
+> + Tendenza: In miglioramento
+> + Stazioni Radio Base - Antenne di telefonia mobile presenti sul territorio del Municipio IV
+> + Rettifica Avviso ricognitivo per la concessione di contributi a sostegno delle attività culturali e sportive nel Municipio Roma VI-2026
+> + Si rende noto ai soggetti interessati che con D.D. Rep. CH/3127 del 13/11/2026 si rettifica l'Avviso pubblico ricognitivo approvato con precedente D.D. Rep. CH/2835/2026 del 23/10/2026 in tutte le par
+> + Graduatoria del progetto denominato “Misure di sostegno al caregiver familiare”
+> + Determinazione Dirigenziale Repertorio CE/2394 del 12/11/2026 : Approvazione della graduatoria di aderenti nell’ambito del progetto denominato “Misure di sostegno al caregiver familiare” – Servizi e c
+> + Scuole, parte il Piano per i nuovi impianti di raffrescamento
+> + Previsti 6 milioni di euro, a dicembre inizio lavori per nidi e scuole infanzia.
+> + Metro C, premiata l'Archeo-stazione Colosseo-Fori Imperiali
+> + Premio nazionale In/Architettura 2026 categoria "Intervento di nuova costruzione".
+> + il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
 **Removed:**
-> - Tourism generates €9.147 billion for Barcelona in the first nine months of 2026
-> - Barcelona welcomed 13.2 million tourists across all types of accommodation in the nine months to September, up 8% on the same period in 2025.
-> - The Barcelona Restaurant Awards 2026 recognise six establishments for their excellence and commitment to the city
-> - Fishology, Arume, Nectari, Windsor and La Medusa 73 are the winners in the seventh edition of the awards, which also recognised the trajectory of the restaurant Via Veneto with the honorary award.
-
-### dublin — https://www.failteireland.ie
-**Added:**
-> + How can we help? Key tourism research Build my career Market my business Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achie
-**Removed:**
-> - How can we help? Key tourism research Build my career Market my business Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achie
+> - Allerta vento (GIALLA) e Allerta per criticità idrogeologica (ARANCIONE) dal primo pomeriggio di giovedì 12 novembre 2026 e per le successive 24-30 ore
+> - Allerta vento (GIALLA) e Allerta per criticità idrogeologica (ARANCIONE) dal primo pomeriggio di giovedì 12 novembre 2026 e per le successive 24-30 ore
+> - Indice Qualità dell'Aria del 11.11.2026
+> - Procedura Negoziata: Affidamento del servizio BenEssere in crescita
+> - Assegnazione spazi pubblicitari su aree private o di proprietà non comunale da utilizzare con mezzi privati. Anno 2026. Integrazione avviso pubblico – fissazione termine per presentazione istanze
+> - Il termine per la presentazione delle istanze è fissato al 30 novembre 2026
+> - Graduatoria definitiva Avviso Pubblico per l'assegnazione in concessione, per un periodo di anni 10, dei posteggi disponibili per l'esercizio del commercio su area pubblica all'interno dei mercati pla
+> - Determinazione Dirigenziale Repertorio CE/2389/2026 del 12/11/2026 : Approvazione delle graduatoria definitiva relativa all’Avviso Pubblico per l’assegnazione, in concessione, per un periodo di 10 ann
+> - il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
+> - Canali di comunicazione: Email - SMS - WhatsApp - App IO
+> - Mobilità e trasporti, weekend 14 e 15 novembre
+> - Domenica ecologica, cortei, manifestazioni: come cambia la viabilità.
 
 ### florence — https://www.comune.fi.it
 **Added:**
-> + Informazioni dalla Sala Operativa Comunale Bollettino del 12/11/2026 - Allerta Meteo Codice Arancione per Rischio IDROGEOLOGICO dalle ore 17:00 del 12/11/2026 fino alle ore 23:59 del 13/11/2026, Aller
-> + Avviso 13 Novembre 2026 Avviso malfunzionamento posta elettronica L'anomalia è collegata ai malfunzionamenti presenti sulla piattaforma Microsoft 365 e rilevati a livello mondiale. Notizia in aggiorna
+> + Notizia 10 Novembre 2026 Stati Generali del Turismo 2026 a Palazzo Vecchio Sabato 21 novembre 2026 il Comune di Firenze, in collaborazione con la Fondazione Destination Florence, organizza nella sede 
 > + Torna la manifestazione di orientamento alla scelta della scuola secondaria di secondo grado. Sabato 14 e domenica 15 novembre presso la palestra di viale Malta, 10 Leggi sul sito tematico a proposito
-> + Un mese di iniziative per sensibilizzare contro la violenza di genere Leggi sul sito tematico a proposito di Filo Rosso 2026 Sociale 2 Novembre 2026
-> + Scadenza presentazione domande: 30 novembre 2026 Leggi sul sito tematico a proposito di Contributi destinati ad Associazioni - Anno 2027 Eventi Novembre 2026
-> + Ven Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> + E' stata pubblicata la lista dei beneficiari della Carta Leggi sul sito tematico a proposito di Carta Dedicata a Te - Anno 2026/2027 Notizia 20 Ottobre 2026 Aggiornamento del Quadro Conoscitivo del Pi
+> + La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
+> + Sab Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 **Removed:**
-> - Informazioni dalla Sala Operativa Comunale Bollettino del 11/11/2026 - Allerta Meteo Codice Giallo per Rischio TEMPORALI dalle ore 09:00 del 12/11/2026 fino alle ore 23:59 del 12/11/2026
-> - Notizia 5 Novembre 2026 Giocattolo Sospeso 2026 Un giocattolo da regalare ai bambini di famiglie fragili e in difficoltà economica. Le modalità per aderire all'iniziativa Vai alla pagina a proposito d
+> - Informazioni dalla Sala Operativa Comunale Bollettino del 12/11/2026 - Allerta Meteo Codice Arancione per Rischio IDROGEOLOGICO dalle ore 17:00 del 12/11/2026 fino alle ore 23:59 del 13/11/2026, Aller
+> - Avviso 13 Novembre 2026 Avviso malfunzionamento posta elettronica L'anomalia è collegata ai malfunzionamenti presenti sulla piattaforma Microsoft 365 e rilevati a livello mondiale. Notizia in aggiorna
 > - Torna la manifestazione di orientamento alla scelta della scuola secondaria di secondo grado. Sabato 14 e domenica 15 novembre presso la palestra di viale Malta, 10 Leggi sul sito tematico a proposito
-> - Scadenza presentazione domande: 30 novembre 2026 Leggi sul sito tematico a proposito di Contributi destinati ad Associazioni - Anno 2027 Quartieri 4 Novembre 2026
-> - Un mese di iniziative per sensibilizzare contro la violenza di genere Leggi sul sito tematico a proposito di Filo Rosso 2026 Eventi Novembre 2026
-> - Gio Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - E' stata pubblicata la lista dei beneficiari della Carta Leggi sul sito tematico a proposito di Carta Dedicata a Te - Anno 2026/2027 Ambiente 27 Ottobre 2026
+> - La durata massima giornaliera di esercizio degli impianti termici è di 12 ore, distribuite in più fasce orarie, dalle ore 5 alle ore 23 Leggi sul sito tematico a proposito di Dal 1° novembre si accend
+> - Ven Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 
 ## 🔴 DEAD SOURCES — 3+ days unreachable, replace the URL
 
-- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (45 days)
+- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (46 days)
+
+## ✗ Unreachable today (watching)
+
+- vancouver: https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/short-term-rental-legislation — `RemoteDisconnected: Remote end closed connection without response` (day 1)
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -117,8 +105,10 @@
 - vienna (no change)
 - berlin (no change)
 - munich (no change)
+- barcelona (no change)
 - paris (no change)
 - london (no change)
+- dublin (no change)
 - budapest (no change)
 - new-york (no change)
 - miami (no change)
@@ -128,4 +118,3 @@
 - singapore (no change)
 - sydney (no change)
 - toronto (no change)
-- vancouver (no change)
