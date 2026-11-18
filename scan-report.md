@@ -1,98 +1,83 @@
-# Scan report — 2026-11-17
+# Scan report — 2026-11-18
 
-**5 changed · 0 unreachable · 1 DEAD · 16 quiet**
+**4 changed · 0 unreachable · 1 DEAD · 17 quiet**
 
 ## 🚨 HIGH-SIGNAL CHANGES — read the page, stamp the register
 
+### porto — https://www.cm-porto.pt
+**Added:**
+> + Hasta Pública – Alienação de imóvel
+> + Compras no Bolhão dão direito a uma hora de estacionamento gratuito
+> + "O Porto é Lindo!" dá a conhecer a história do Hospital Militar do Porto
+> + Casa do Infante revela as primeiras gravações sonoras de fado realizadas em Portugal
+> + Novas residências dão resposta de alojamento e promovem a autonomia de pessoas com deficiência
+> + Município promove coerência e acessibilidade com programa geral de apoio à criação artística
+**Removed:**
+> - Projeto boca-rota leva poesia, experimentação e música ao Teatro Campo Alegre
+> - Município reforça prevenção da diabetes durante o mês de novembro
+> - Novas escavações na Biblioteca Pública Municipal do Porto revelam mais histórias do antigo convento
+> - Conselho Metropolitano defende "visão coordenada" para a habitação
+> - Precipitação persistente, vento e agitação marítima a partir desta segunda-feira
+
 ### florence — https://www.comune.fi.it
 **Added:**
+> + Informazioni dalla Sala Operativa Comunale Bollettino del 18/11/2026 - Allerta Meteo Codice Giallo per Rischio VENTO dalle ore 08:00 del 19/11/2026 fino alle ore 23:59 del 19/11/2026
 > + Notizia 10 Novembre 2026 Stati Generali del Turismo 2026 a Palazzo Vecchio Sabato 21 novembre 2026 il Comune di Firenze, in collaborazione con la Fondazione Destination Florence, organizza nella sede 
-> + Ven Mostra Firenze, l'invenzione della periferia - Oltre il Mugnone, da Rifredi a Novoli: fabbriche, industrie, abitazioni e grandi strutture direzionali
-> + Mar Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> + Lun "Orizzonti AI: Imprese, competenze e territori per un’Europa più competitiva" . Incontro alle Oblate
+> + Mer Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 **Removed:**
 > - Notizia 10 Novembre 2026 Stati Generali del Turismo 2026 a Palazzo Vecchio Sabato 21 novembre 2026 il Comune di Firenze, in collaborazione con la Fondazione Destination Florence, organizza nella sede 
-> - Lun Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
+> - Mar Siti tematici Bandi di gara e contratti Sezione di Amministrazione Trasparente Edilizia urbanistica Sito tematico dedicato all'edilizia e urbanistica del Comune di Firenze Firenze Tramvia Sito tem
 
 ### cape-town — https://www.capetown.gov.za
 **Added:**
-> + Vendor applications open for 2026 My Cape Town Market – The Company’s Gar...
-> + Apply to trade at the 2026 My Cape Town Market
-> + Capetonians called to use 10% less water under Level 1 restrictions this ...
-> + Following the National Department of Water and Sanitation’s annual operating assessment r...
-> + Waterfall baboon troop adjusting well
-> + Waterfall troop settles in at new Kogelfontein home
-> + City’s Local Planning Support team visits Heideveld
-> + Learn about building safe, legal rental flats
+> + City takes Beat the Heat to elderly residents across Atlantis
+> + Beat the Heat expands to Atlantis to protect seniors
+> + Waterfall troop safe from urban harms for first time in over a decade
+> + Waterfall troop safe and settling in at Kogelfontein
+> + Manzi champions water-saving habits at St Joseph’s Marist College
+> + Learners take water-saving lessons home with Manzi
 **Removed:**
-> - Critical electricity maintenance
-> - More than a ton of dagga in drug hauls
-> - Huge drug haul includes dagga, Mandrax and crystal meth
-> - City attends to more than 9 400 streetlight-related requests between Sept...
-> - Thousands of streetlight faults repaired citywide
-> - Waterfall baboon troop successfully relocated to Urban Wildlife Centre
-> - The Cape Peninsula Baboon Management Joint Task Team (CPBMJTT) consisting of representati...
-> - Planned water supply maintenance from 14 to 20 November 2026
-> - Water supply disruptions expected during maintenance
-
-## ⚠ Uncategorized changes — skim these
-
-### porto — https://www.cm-porto.pt
-**Added:**
-> + Projeto boca-rota leva poesia, experimentação e música ao Teatro Campo Alegre
-> + Município reforça prevenção da diabetes durante o mês de novembro
-> + Novas escavações na Biblioteca Pública Municipal do Porto revelam mais histórias do antigo convento
-> + Conselho Metropolitano defende "visão coordenada" para a habitação
-> + Precipitação persistente, vento e agitação marítima a partir desta segunda-feira
-> + Reunião do Conselho Municipal de Turismo - 2026
-**Removed:**
-> - Mais de 200 livros reforçam coleção de língua alemã das Bibliotecas do Porto
-> - Mosaico reúne escolas artísticas e profissionais da cidade no palco do Coliseu
-> - Concurso de Montras de Natal traz Calendário do Advento com prémios para clientes do comércio tradicional
-> - Cidade mantém tradições com magusto e espírito natalício à mistura
-> - Rui Moreira escreve sobre "O Fim das Ilusões" e o otimismo de um futuro desconhecido
-> - 28.ª Reunião, Sessão Extraordinária da Assembleia Municipal do Porto
-> - Paços do Concelho - Sala das Sessões
-> - Reunião Privada de Executivo
+> - Capetonians called to use 10% less water under Level 1 restrictions this ...
+> - Following the National Department of Water and Sanitation’s annual operating assessment r...
+> - Waterfall baboon troop adjusting well
+> - Waterfall troop settles in at new Kogelfontein home
+> - City’s Local Planning Support team visits Heideveld
+> - Learn about building safe, legal rental flats
 
 ## ℹ Likely fluff (events, calendars)
 
-### dublin — https://www.failteireland.ie
-**Added:**
-> + How can we help? Key tourism research Build my career Market my business Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achie
-**Removed:**
-> - How can we help? Key tourism research Build my career Market my business Find the right support for your business. Funding, training, expert advice and toolkits, curated by what you're trying to achie
-
 ### rome — https://www.comune.roma.it
 **Added:**
-> + Allerta vento dal pomeriggio di martedì 17 novembre 2026, e per le successive 24-36 ore
-> + Allerta vento dal pomeriggio di martedì 17 novembre 2026, e per le successive 24-36 ore
-> + Cosa sapere e cosa fare in caso di forte vento
-> + Indice Qualità dell'Aria del 16.11.2026
-> + Assegnazione in concessione d'uso a titolo oneroso di porzione dell'immobile sito in Via Carlo Avolio, 60
-> + Avviso Pubblico per l'assegnazione in concessione di n. 62 posteggi di cui 32 boxes e 30 piazzole all'interno del mercato plateatico “Trieste” - via Chiana
-> + Concorso per complessivi n. 286 posti nell'Area dei Funzionari e dell'Elevata Qualificazione
-> + Lavori di manutenzione del Centro Anziani Bel Respiro - PT20250893
-> + Determinazione Dirigenziale CQ 2124 del 29/10/2026 (D.D. di liquidazione)
-> + Fori Imperiali, apre la biblioteca occidentale del Foro di Traiano
-> + Gualtieri: "Un pezzo importante della città diventa visitabile per la prima volta".
+> + Indice Qualità dell'Aria del 17.11.2026
+> + Approvazione Avviso pubblico per la formazione dell'albo degli operatori non professionali "cosiddetti Hobbisti" del Mercato di Porta Portese - Graduatoria definitiva
+> + Determinazione Dirigenziale CQ 2268 del 16/11/2026 (D.D. Approvazione graduatoria definitiva)
+> + Stazioni Radio Base - Anno 2026
+> + Richieste installazione / modifiche  Stazioni Radio Base
+> + Elenco permanente di Organismi, Enti, Associazioni e professionisti del privato sociale ai quali poter richiedere prestazioni di supporto psicologico e/o psicoterapeutico
+> + elenco aggiornato al 18/11/2026
+> + Accordo quadro per il servizio di accoglienza temporanea in favore di persone adulte senza dimora, in condizione di grave marginalità sociale
+> + Affidamento del servizio al lotto 5
+> + Stazione Trastevere: inaugurato il secondo ingresso lato Marconi-Portuense
+> + Con il nuovo accesso il bacino pedonale aumenta del 50 per cento
 > + "Se domani non torno", proiezione speciale per le scuole
 **Removed:**
-> - Allerta pioggia (GIALLA) dalle prime ore di lunedi 16 novembre 2026 e per le successive 12 ore
-> - Allerta pioggia (GIALLA) dalle prime ore di lunedi 16 novembre 2026 e per le successive 12 ore
-> - Indice Qualità dell'Aria del 15.11.2026
-> - Tendenza: In peggioramento
-> - Progettazione e realizzazione intervento di bonifica aule interessate da fenomeni di umidità e muffa presso il nido Grillo Canterillo - PT20230840
-> - Determinazione Dirigenziale CQ 2236 dell' 11/11/2026 (D.D. Perizia di variante)
-> - Approvazione Avviso Pubblico di Manifestazione di Interesse per la realizzazione di progetti della “Festa di Natale dello Sport"
-> - Lavori edili di manutenzione ordinaria incluso pronto intervento, di plessi comunali scolastici e pubblici di competenza del Municipio XII - biennio 2026 - 2027 - Quadrante Est - (Pamphili - Gianicole
-> - Determinazione Dirigenziale CQ 2019 del 20/10/2026 (D.D. Liquidazione - 1º SAL anno 2026)
-> - Concessione di O.S.P.T emporanea il 16 novembre 2026 in Via Nazionale
-> - La Città dei bambini, incontro con Francesco Tonucci
-> - Lunedì 16 novembre, nella Sala della Protomoteca, alle 16:30.
+> - Indice Qualità dell'Aria del 16.11.2026
+> - Assegnazione in concessione d'uso a titolo oneroso di porzione dell'immobile sito in Via Carlo Avolio, 60
+> - Avviso Pubblico per l'assegnazione in concessione di n. 62 posteggi di cui 32 boxes e 30 piazzole all'interno del mercato plateatico “Trieste” - via Chiana
+> - Concorso per complessivi n. 286 posti nell'Area dei Funzionari e dell'Elevata Qualificazione
+> - Lavori di manutenzione del Centro Anziani Bel Respiro - PT20250893
+> - Determinazione Dirigenziale CQ 2124 del 29/10/2026 (D.D. di liquidazione)
+> - "Se domani non torno", proiezione speciale per le scuole
+> - La storia di Giulia Cecchettin per riflettere sulla violenza maschile contro le donne.
+> - modifica alla viabilità per cantieri
+> - Ponte Matteotti, nuova fase dei lavori dal 16 novembre
+> - Linee tpl deviate su lungotevere Michelangelo.
+> - il nostro nuovo sistema di informazione multicanale ISCRIVITI QUI
 
 ## 🔴 DEAD SOURCES — 3+ days unreachable, replace the URL
 
-- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (49 days)
+- prague: https://www.praha.eu — `URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certific` (50 days)
 
 ## 👁 Manual-watch sources (IP-walled — check by hand on the digest cadence)
 
@@ -114,6 +99,7 @@
 - barcelona (no change)
 - paris (no change)
 - london (no change)
+- dublin (no change)
 - budapest (no change)
 - new-york (no change)
 - miami (no change)
