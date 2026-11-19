@@ -1,2 +1,2 @@
-3 high-signal change(s): porto, florence, cape-town
+4 high-signal change(s): vienna, porto, florence, cape-town
 1 dead source(s): prague
